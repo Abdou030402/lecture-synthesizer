@@ -1,8 +1,8 @@
 from paddleocr import PaddleOCR
 from preprocessing import preprocess_image
 
-INPUT_IMAGE_PATH = "test OCR/handwritten2.png"
-PREPROCESSED_IMAGE_PATH = "test OCR/handwritten2_preprocessed.png"
+INPUT_IMAGE_PATH = "OCR_test_documents/handwritten2.png"
+PREPROCESSED_IMAGE_PATH = "OCR_test_documents/handwritten2_preprocessed.png"
 
 preprocess_image(INPUT_IMAGE_PATH, PREPROCESSED_IMAGE_PATH)
 

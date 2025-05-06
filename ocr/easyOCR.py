@@ -2,8 +2,8 @@ import easyocr
 from preprocessing import preprocess_image_easyOCR
 from trOCR import extract_lines_projection
 
-INPUT_IMAGE = "test OCR/handwritten2.png"
-PREPROCESSED_IMAGE = "test OCR/handwritten2_preprocessed.png"
+INPUT_IMAGE = "OCR_test_documents/handwritten2.png"
+PREPROCESSED_IMAGE = "OCR_test_documents/handwritten2_preprocessed.png"
 
 preprocess_image_easyOCR(INPUT_IMAGE, PREPROCESSED_IMAGE)
 

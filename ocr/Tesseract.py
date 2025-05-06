@@ -1,7 +1,7 @@
 import pytesseract
 from PIL import Image
 
-INPUT_IMAGE_PATH = "test OCR/handwritten2_preprocessed.png"
+INPUT_IMAGE_PATH = "OCR_test_documents/handwritten2_preprocessed.png"
 
 text = pytesseract.image_to_string(Image.open(INPUT_IMAGE_PATH), lang='eng')
 
