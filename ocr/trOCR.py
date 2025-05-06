@@ -4,18 +4,22 @@ import numpy as np
 from PIL import Image
 from transformers import TrOCRProcessor, VisionEncoderDecoderModel
 
+# Load TrOCR
 processor = TrOCRProcessor.from_pretrained("microsoft/trocr-base-handwritten")
 model = VisionEncoderDecoderModel.from_pretrained("microsoft/trocr-base-handwritten")
 
-INPUT_IMAGE_PATH = "test OCR/handwritten2.webp"
-PREPROCESSED_IMAGE_PATH = "test OCR/handwritten2_preprocessed.png"
-TEMP_LINE_DIR = "lines_temp/"
-
-os.makedirs(TEMP_LINE_DIR, exist_ok=True)
+INPUT_IMAGE_PATH = "OCR_test_documents/handwritten2.png"
+TEMP_LINE_DIR = "lines_temp"
 
 def extract_lines_projection(image_path):
-    img = cv2.imread(image_path, cv2.IMREAD_GRAYSCALE)
-    _, thresh = cv2.threshold(img, 0, 255, cv2.THRESH_BINARY_INV + cv2.THRESH_OTSU)
+    """Line extraction via horizontal projection profile, saves lines into per-image subfolder."""
+    # Create subfolder inside lines_temp named after input file (without extension)
+    filename = os.path.splitext(os.path.basename(image_path))[0]
+    output_dir = os.path.join(TEMP_LINE_DIR, filename)
+    os.makedirs(output_dir, exist_ok=True)
+
+    img_gray = cv2.imread(image_path, cv2.IMREAD_GRAYSCALE)
+    _, thresh = cv2.threshold(img_gray, 0, 255, cv2.THRESH_BINARY_INV + cv2.THRESH_OTSU)
 
     horizontal_sum = np.sum(thresh, axis=1)
     threshold = np.max(horizontal_sum) * 0.1
@@ -37,14 +41,16 @@ def extract_lines_projection(image_path):
     img_color = cv2.imread(image_path)
 
     for idx, (y1, y2) in enumerate(lines):
-        if (y2 - y1) > 15: 
+        if (y2 - y1) > 15:
+            pad = 5
+            y1 = max(0, y1 - pad)
+            y2 = min(img_color.shape[0], y2 + pad)
             line_img = img_color[y1:y2, :]
-            line_path = os.path.join(TEMP_LINE_DIR, f"line_{idx}.png")
+            line_path = os.path.join(output_dir, f"line_{idx}.png")
             cv2.imwrite(line_path, line_img)
             line_images.append(line_path)
 
     return line_images
-
 
 def extract_lines_from_image(image_path):
     img = cv2.imread(image_path)
@@ -82,9 +88,8 @@ def run_tr_ocr_on_line(image_path):
     return text.strip()
 
 def main():
-
-    print("Extracting lines from preprocessed image...")
-    line_images = extract_lines_projection(PREPROCESSED_IMAGE_PATH)
+    print("Extracting lines from original image...")
+    line_images = extract_lines_projection(INPUT_IMAGE_PATH)
 
     print(f"Detected {len(line_images)} lines. Running OCR...")
     full_text = []
@@ -96,10 +101,10 @@ def main():
             print(f"Error on {line_img}: {e}")
 
     combined = "\n".join(full_text)
-    print("\n--- Final Extracted Text ---\n")
-    print(combined)
 
-    with open("trocr_output.txt", "w", encoding="utf-8") as f:
+    filename = os.path.splitext(os.path.basename(INPUT_IMAGE_PATH))[0]
+    output_file = f"OCR_outputs/trocr_output_{filename}.txt"
+    with open(output_file, "w", encoding="utf-8") as f:
         f.write(combined)
 
     print("[TrOCR] Done. Saved to trocr_output.txt")

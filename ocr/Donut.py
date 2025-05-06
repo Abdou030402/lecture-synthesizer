@@ -4,7 +4,7 @@ from PIL import Image
 processor = DonutProcessor.from_pretrained("naver-clova-ix/donut-base")
 model = VisionEncoderDecoderModel.from_pretrained("naver-clova-ix/donut-base")
 
-image = Image.open("test OCR/handwritten2.png").convert("RGB")
+image = Image.open("OCR_test_documents/handwritten2.png").convert("RGB")
 pixel_values = processor(image, return_tensors="pt").pixel_values
 
 generated_ids = model.generate(pixel_values)
