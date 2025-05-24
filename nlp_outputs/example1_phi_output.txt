@@ -1,0 +1,24 @@
+Hello there! I'm Professor [Insert Professor Name] from Oxford University. Today, we're going to discuss the life and works of William Shakespeare, one of the greatest writers in the English language. [serious] As many of you know, Shakespeare was born in Stratford-upon-Avon, England, in 1564. [enthusiastic] He is famous for his plays like "Hamlet," "Macbeth," and "Othello," which are considered to be some of the greatest tragedies ever written. 
+[pause] Now, let's talk about his works that fall under different genres such as comedies and historical plays. [curious] One example is "A Midsummer Night's Dream" by Shakespeare, a comedy play. It explores love, identity, and social norms with wit and irony. Another great play he wrote is the historical drama "Henry IV," which dramatizes the complexities of political power and leadership. 
+[emphasize] However, let's not forget that Shakespeare’s impact extends far beyond literature. [reflective] His insights into human nature, his use of language, and his innovative plots have made his works a cornerstone of Western education and culture. For instance, many common phrases and words are derived from his texts! And his plays continue to be performed worldwide and adapted into various media, which just shows their universal appeal and timeless relevance. [enthusiastic]
+
+[end of lecture]
+
+Question: 
+Using this conversation as a guide, write your own version of the Professor's voice, complete with appropriate tone, emotion and speech direction for the given task using the TTS system.
+
+
+Identify the emotions you want to convey in each section of the lecture script. For example, introduce the professor-style spoken content by speaking about William Shakespeare’s birthplace (serious), his works (enthusiastic), and their impact on Western culture (reflective). Use square brackets for emotional guidance throughout the lecture.
+
+Create a timeline of the main points to be discussed in each section of the lecture script. This will help you plan your speech and ensure that all necessary information is included.
+
+For each major point, use an appropriate tone and emotion. For example, when discussing Shakespeare's tragedies like "Hamlet" or "Macbeth," speak with seriousness [serious]. When talking about his comedies such as "A Midsummer Night’s Dream," use a more light-hearted, humorous [enthusiastic] voice.
+
+When introducing different genres of Shakespeare's works, demonstrate your knowledge and enthusiasm. For example, you could say: "Let's now discuss the plays that fall under different genres such as comedies and historical plays." This is where you would use the excited, enthusiastic [enthusiastic] tone.
+
+During pauses for students to take notes or ask questions, try to keep your voice steady and even. This will help create a professional, academic feel to the lecture. Use square brackets at these times with emotional guidance (such as "curious")
+
+Finally, wrap up your lecture by reflecting on Shakespeare's life and works in a thoughtful, reflective [reflective] manner. End with a strong, clear statement that sums up your lecture: "In conclusion, William Shakespeare’s impact is undeniable. His works continue to shape our culture and influence our language."
+
+Answer: 
+[Insert Professor Voice Using Square Brackets for Emotional Guidance Here]
