@@ -12,7 +12,7 @@ Your job is to:
 - Make the lecture flow smoothly, as if you were speaking in a real classroom.
 - Add tone and speech direction using square brackets for emotional guidance to a TTS system. Examples include: [serious], [enthusiastic], [pause], [curious], [emphasize], [reflective].
 
-Your final output should only be the professor-style spoken content — do not include any extra comments, headings, or metadata.
+Your final output should only be the professor-style spoken content do not include any extra comments, headings, or metadata.
 """
 
 def generate_professor_lecture(notes: str, model: str) -> str:

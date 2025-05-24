@@ -1,23 +1,24 @@
-import requests
+import os
 import base64
-import certifi
+from huggingface_hub import InferenceClient
 
-API_URL = "https://api-inference.huggingface.co/models/OpenGVLab/internvl-7b"
-headers = {"Authorization": "Bearer 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"}
+image_path = "OCR_test_documents/handwritten2.png"
+with open(image_path, "rb") as f:
+    image_b64 = base64.b64encode(f.read()).decode("utf-8")
+data_uri = f"data:image/png;base64,{image_b64}"
 
-# Load image and encode to base64
-with open("OCR_test_documents/handwritten2.png", "rb") as f:
-    image_data = f.read()
-encoded_image = base64.b64encode(image_data).decode("utf-8")
+prompt = f"![]({data_uri})\nWhat text is written in this image?"
 
-payload = {
-    "inputs": {
-        "image": encoded_image,
-        "prompt": "Read the handwritten text in this image and return it as plain text."
-    }
-}
+client = InferenceClient(
+    model="OpenGVLab/InternVL3-1B-hf",
+    token="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"
+)
+response = client.text_generation(prompt, max_new_tokens=256)
 
-response = requests.post(API_URL, headers=headers, json=payload, verify=certifi.where())
+os.makedirs("OCR_outputs", exist_ok=True)
+out_path = "OCR_outputs/internvl_output_handwritten2.txt"
+with open(out_path, "w", encoding="utf-8") as f:
+    f.write(response)
 
-print("Response from InternVL:")
-print(response.json())
+print("✅ InternVL output saved to:", out_path)
+
