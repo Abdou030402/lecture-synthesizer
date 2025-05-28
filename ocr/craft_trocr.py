@@ -5,7 +5,6 @@ import torch
 from transformers import TrOCRProcessor, VisionEncoderDecoderModel
 from craft_text_detector import Craft
 
-# === STAGE 1: Detect and crop text using CRAFT ===
 def detect_text_regions(image_path, output_dir="crops"):
     os.makedirs(output_dir, exist_ok=True)
     craft = Craft(output_dir=None, crop_type="box", cuda=torch.cuda.is_available())
@@ -33,7 +32,6 @@ def detect_text_regions(image_path, output_dir="crops"):
     craft.unload_refinenet_model()
     return crops
 
-# === STAGE 2: Recognize text from crops using TrOCR ===
 def recognize_text(crop_paths):
     processor = TrOCRProcessor.from_pretrained("microsoft/trocr-base-handwritten")
     model = VisionEncoderDecoderModel.from_pretrained("microsoft/trocr-base-handwritten")
@@ -51,9 +49,8 @@ def recognize_text(crop_paths):
 
     return results
 
-# === MAIN: Full pipeline ===
 if __name__ == "__main__":
-    image_path = "OCR_test_documents/handwritten2.png"  # Change to your image path
+    image_path = "OCR_test_documents/handwritten2.png" 
     crop_paths = detect_text_regions(image_path)
     texts = recognize_text(crop_paths)
 
