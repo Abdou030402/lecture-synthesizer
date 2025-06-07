@@ -1,0 +1,13 @@
+<speak>
+    Hello, and welcome! I'm glad you're considering my handwriting service. I have a deep-seated passion for writing, and I truly believe that good handwriting is more than just a skill—it's an essential tool that leaves a lasting impression.
+
+    Whether you need handwritten assignments, notes, letters, or anything else, I can help make them look polished, professional, and impressive. I use high-quality pens, papers, and scanning equipment to ensure the utmost quality in all your documents.
+
+    <break time="1s"/>
+    Now, here's something interesting: did you know that handwriting is a form of art? Just like a beautifully painted canvas or a well-played melody, a piece of handwritten work can evoke emotions and convey ideas in a way that typed text often cannot.
+
+    <prosody pitch="+10%">And here's the best part:</prosody> I can transcribe any handwritten, audio, or video content you provide into clear and readable text. This means you can focus on your creative endeavors while I handle the written details for you!
+
+    <break time="1s"/>
+    So, whether you're an undergraduate student, a professional, or simply someone who values good handwriting, feel free to reach out and let me help you elevate your written work. Thanks for listening!
+</speak>

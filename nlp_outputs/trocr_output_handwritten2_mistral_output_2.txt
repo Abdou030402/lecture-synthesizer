@@ -1,0 +1,9 @@
+<speak>
+    Welcome everyone, today we're going to delve into the fascinating world of computers. A computer, as you might know, is a versatile device that can perform a wide range of arithmetic and logical operations automatically. To put it simply, think of a computer as a toolbox with numerous tools, each designed for a specific task.
+
+    <break time="1s"/> Now, the beauty of this toolbox is that its set of tools, or rather the sequence of operations it can carry out, isn't fixed. This means the computer can solve more than one kind of problem! It's like having a swiss army knife where each tool serves a different purpose.
+
+    <prosody rate="slow">Now, you might be wondering, when was this marvel called 'computer' first mentioned? Well, interestingly, the word 'computer' has been in use since the early 17th century, but it referred to a person who performed calculations. The concept of a mechanical computer, as we know it today, was conceived much later in the 19th century.</prosody>
+
+    Let's imagine our mechanical computer as an assembly line in a factory. Each station on this line is like one operation the computer can perform. And just like how you can change the product being manufactured by changing the sequence of operations on the assembly line, you can change what problem a computer solves by altering its set of instructions, or 'programs' as we call them.
+</speak>

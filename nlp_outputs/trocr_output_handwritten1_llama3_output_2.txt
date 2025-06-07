@@ -1,0 +1,21 @@
+<speak>
+
+Welcome, students! Today we're going to explore the concept of the international business environment and its significant influence on foreign market decisions. The international economic environment refers to the economic conditions that exist globally, which have a profound impact on businesses, ratings, and individuals beyond borders. It encompasses various factors such as trade policies, currency fluctuations, and global events.
+
+<prosody rate="slow">Now, understanding this complex environment is crucial for businesses looking to expand into foreign markets.</prosody>
+
+One of the most widely used indicators to measure a country's economic performance is Gross Domestic Product, or GDP. It represents the total value of all goods and services produced within a country's borders over a specified period. Growth rates indicate the overall health of an economy, and changes in these rates can be indicative of future trends.
+
+<emphasis level="moderate">GDP serves as a vital tool for assessing the state of the international economic environment.</emphasis>
+
+Let's take a closer look at some significant economic indicators that influence foreign market decisions. For instance, GDP growth rates may be strong, leading to increased investment opportunities and a positive outlook for businesses looking to expand.
+
+<prosody pitch="+10%">But what happens when we see a decline in these growth rates?</prosody>
+
+In this scenario, businesses might need to reassess their investment strategies, considering the potential risks associated with a slowing economy. This is where international economic indicators come into play, providing valuable insights that can inform our decision-making.
+
+<break time="1s"/>
+
+Now, let's dive deeper into some of these key indicators and explore how they impact foreign market decisions.
+
+<speak>

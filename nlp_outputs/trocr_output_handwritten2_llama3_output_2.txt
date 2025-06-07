@@ -1,0 +1,18 @@
+<speak>
+Today, we're going to explore the fascinating world of computers! So, what is a computer? Well, a computer is a general-purpose device that can be programmed to carry out a set of arithmetic or logical operations automatically. This means it can solve problems on its own, without human intervention.
+
+But here's the amazing part: because a sequence of operations can be changed, a computer can solve more than one kind of problem! It's like having a super-smart, flexible assistant that can adapt to different tasks and scenarios.
+
+Now, let's take a brief journey through history. The first recorded use of the word "computer" dates back to the early 19th century. Can you believe it? Those clever folks were already imagining and designing the first computer devices over two centuries ago!
+
+<prosody rate="slow">As we'll see later, computers have come a long way since then... but the fundamental idea of programming and problem-solving remains at the heart of what makes them so powerful.</prosody>
+
+So, in simple terms, a computer is a machine that can be told what to do by humans, using special instructions called programs. And because it can perform calculations and operations automatically, it opens up a world of possibilities for us to solve complex problems, analyze data, communicate with each other... the list goes on!
+
+<break time="1s"/>
+
+As we delve deeper into this fascinating topic, I encourage you to think about how computers have become an integral part of our daily lives. From smart devices and social media to artificial intelligence and beyond, the impact of computing is far-reaching.
+
+<emphasis level="moderate">So, let's get started on this exciting journey through computer history and explore how these incredible machines have shaped our world.</emphasis>
+
+</speak>

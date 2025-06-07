@@ -5,6 +5,11 @@ import torch
 from transformers import TrOCRProcessor, VisionEncoderDecoderModel
 from craft_text_detector import Craft
 
+def ocr_image(image_path: str) -> str:
+    crop_paths = detect_text_regions(image_path)
+    texts = recognize_text(crop_paths)
+    return "\n".join(texts)
+
 def detect_text_regions(image_path, output_dir="crops"):
     os.makedirs(output_dir, exist_ok=True)
     craft = Craft(output_dir=None, crop_type="box", cuda=torch.cuda.is_available())
@@ -50,9 +55,6 @@ def recognize_text(crop_paths):
     return results
 
 if __name__ == "__main__":
-    image_path = "OCR_test_documents/handwritten2.png" 
-    crop_paths = detect_text_regions(image_path)
-    texts = recognize_text(crop_paths)
-
+    image_path = "OCR_test_documents/handwritten2.png"
     print("\nRecognized Text:\n")
-    print("\n".join(texts))
+    print(ocr_image(image_path))
