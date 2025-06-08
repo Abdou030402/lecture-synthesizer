@@ -29,7 +29,7 @@ if __name__ == "__main__":
             result = generate_professor_lecture(notes, model=model)
             print(result)
 
-            out_name = f"{os.path.splitext(fname)[0]}_{model}_output_2py.txt"
+            out_name = f"{os.path.splitext(fname)[0]}_{model}_output_2.txt"
             out_path = os.path.join(OUTPUT_DIR, out_name)
             with open(out_path, "w", encoding="utf-8") as out_file:
                 out_file.write(result)

@@ -82,9 +82,6 @@ Return only the final, fully rewritten lecture content in this format. Keep it a
 """
 
 def generate_professor_lecture(notes: str, model: str) -> str:
-    """
-    Generate professor-style lecture from notes using specified model via Ollama.
-    """
     payload = {
         "model": model,
         "prompt": f"{SYSTEM_PROMPT_ELEVENLABS_V2}\n\nLecture Notes:\n{notes}\n\nLecture Script:",
