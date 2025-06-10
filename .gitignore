@@ -6,3 +6,4 @@ venv_chatter
 __pycache__/
 */__pycache__/.venv_chatter/
 .venv_chatter/
+.vscode/
