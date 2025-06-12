@@ -7,5 +7,3 @@ Now, you might be thinking, "But how does it work?" Well, at its core, JavaScrip
 Speaking of development environments, let's take a look at how we set up our own JavaScript coding environment. First, we'll need to start by selecting a code editor or IDE – there are many great options out there, from Visual Studio Code to Atom. Once we have our editor set up, we can begin coding in JavaScript.
 
 Now, I know some of you might be feeling a bit overwhelmed at this point, but don't worry – setting up the development environment is actually quite straightforward. Here are the basic steps:
-
-... (to be continued)

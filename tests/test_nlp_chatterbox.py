@@ -1,6 +1,6 @@
 import os
 from nlp.nlp_model import generate_professor_lecture
-from TTS.Chatterbox_audio import synthesize_chatterbox_audio
+from TTS.chatterbox_audio import synthesize_chatterbox_audio
 
 OCR_INPUT_DIR = "OCR_outputs/trOCR_CRAFT"
 NLP_OUTPUT_DIR = "nlp_outputs"
