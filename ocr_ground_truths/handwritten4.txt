@@ -1,0 +1,3 @@
+• A p-value or probability value, is the probability of finding the observed t-statistic when the null hypothesis would indeed be true.
+
+• A confidence interval is used so that if βₕ₀ is outside the confidence interval we can interpret this as evidence against the null.

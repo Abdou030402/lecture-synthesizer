@@ -1,0 +1,15 @@
+File,WER,CER
+handwritten1.txt,0.7917,0.3472
+handwritten2.txt,0.4038,0.2712
+handwritten3.txt,0.9615,0.7742
+handwritten4.txt,0.9565,0.6704
+handwritten5.txt,0.9048,0.3964
+handwritten6.txt,0.5391,0.0547
+handwritten7.txt,0.9032,0.5064
+printed1.txt,0.2210,0.0569
+printed2.txt,0.4098,0.1125
+printed3.txt,0.3100,0.1172
+whiteboard1.txt,0.9722,0.7957
+Average,0.6703,0.3730
+Handwritten Average,0.7801,0.4315
+Printed Average,0.3136,0.0955

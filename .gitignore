@@ -5,7 +5,10 @@ venv
 venv_chatter
 __pycache__/
 */__pycache__/.venv_chatter/
-.venv_chatter/
 .vscode/
-.venv_ocr/
-.venv_ocr
+.venv_ocr_craft/
+.venv_ocr_craft
+.venv_paddle/
+.venv_paddle
+
+

@@ -1,0 +1,9 @@
+Engine: PaddleOCR
+Overall WER: 67.03%
+Overall CER: 37.30%
+
+Handwritten WER: 78.01%
+Handwritten CER: 43.15%
+
+Printed WER: 31.36%
+Printed CER: 9.55%

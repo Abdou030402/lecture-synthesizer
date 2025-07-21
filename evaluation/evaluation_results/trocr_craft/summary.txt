@@ -1,0 +1,9 @@
+Engine: trocr_craft
+Overall WER: 58.28%
+Overall CER: 27.92%
+
+Handwritten WER: 61.50%
+Handwritten CER: 29.15%
+
+Printed WER: 39.63%
+Printed CER: 8.85%

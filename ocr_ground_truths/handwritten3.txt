@@ -1,0 +1,5 @@
+L₁ = [0.3 : a, 0.7 : b, 0 : c]
+L₂ = [0.6 : a, 0 : b, 0.4 : c]
+
+Most likely outcome: L₂ > L₁
+Least desirable outcome: L₁ > L₂

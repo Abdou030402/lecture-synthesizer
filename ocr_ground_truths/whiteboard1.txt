@@ -1,0 +1,16 @@
+Volume (mL) → syringe
+Weight (lb) → scale
+
+Pressure you apply →
+                    Weight (lb)
+                    —————————————
+                    area of plunger (in²)
+
+Area of plunger
+                          ◯
+                            r (radius)
+
+A = πr²
+   = 3.14 × r × r
+                           (radius in inches)
+

@@ -1,0 +1,20 @@
+1.2Purpose  JavaScript
+client -side.scripting
+web.browser
+With JavaScriptwe can dynamically
+update web pages elements validate
+form inputsandrespamdtouser
+interactiomslike clicks
+movsemovemenk
+AdditiomallyiJavaScriptcaninteract
+with
+web servershrough AJAx
+AsyncbramousJava Script and xML
+to
+tetche deta without Lrequiringa
+pagedreload.
+Copyrighicd by CoclewlithCurious.com
+13.Setino rup the development enviramment
+lostan+.cadinginJava Scriptwe
+needadidevelopment enviromment set
+fere are the basic Stebs

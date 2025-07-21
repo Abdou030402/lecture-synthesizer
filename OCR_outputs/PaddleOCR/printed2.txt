@@ -1,0 +1,18 @@
+Top-P Sampling
+Top-P sampling determines which tokens the model
+considers when generating each word byselectingfrom the
+smallest set of tokens whose cumulative probability reaches.
+the specified P value. The parameter ranges from O.O to 1.0
+where higher values allow for more diverse outputs while
+lower values produce more focused and predictable
+responses
+Token Choice.
+Individual Probability
+mat
+0.35
+couch
+0.25
+roof
+0.15
+fence
+0.10

@@ -1,0 +1,25 @@
+Analo
+Electronics-I
+Minox-l Notes
+Unit-J
+BJT - 9ntroducti'o & types
+transistoy
+Cnstructiow, BJ T Characten'
+iw CB,CE& CC mode,sperating
+-tics
+foirt, Ac/Dc load line, beakoge
+nodle
+opevttior%, Ebers Moll
+Modlel.
+Bias
+Stabilizatiow-s Need
+stobilsatior,
+Stakilty w.rt. wriatiow in Fos'BEB
+Stabibzatir factor, thirmal stobj
+-parameter, Hybnd TT, se J
+BJT Anplifiers -, Analysis
+f low freq. CcB,cg
+cck Cc witb Rg), Compan8ow
+fdiff Configuratins.
+Cascoole Anplifievs..
+Scanned by CamScanner

@@ -1,0 +1,9 @@
+Engine: Tesseract
+Overall WER: 3938.09%
+Overall CER: 2022.76%
+
+Handwritten WER: 4838.64%
+Handwritten CER: 2714.52%
+
+Printed WER: 118.95%
+Printed CER: 54.14%

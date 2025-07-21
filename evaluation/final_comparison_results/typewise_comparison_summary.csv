@@ -1,0 +1,7 @@
+Engine,Type,WER,CER
+trocr_craft,Handwritten,61.5,29.15
+trocr_craft,Printed,39.629999999999995,8.85
+PaddleOCR,Handwritten,78.01,43.15
+PaddleOCR,Printed,31.36,9.55
+Tesseract,Handwritten,4838.64,2714.52
+Tesseract,Printed,118.95,54.14

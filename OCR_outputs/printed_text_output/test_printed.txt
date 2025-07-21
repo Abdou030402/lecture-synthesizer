@@ -1,0 +1,30 @@
+1.2 Role Prompting
+What It Is
+Role prompting instructs an AI to assume a specific persona, 
+expertise level, or professional role when responding to queries. queries. 
+For example, asking the AI to "act as a physics professor" or For 
+professor" or "think like a creative writer" fundamentally changes its changes its approach to the response.How It Works
+This technique leverages the AI's training on vast amounts of roleof role --
+specific content and professional discourse patterns. 
+When a specific When a 
+role, the AI adapts its language and terminology, 
+terminology, problem -solving approach, level of technical detail, and 
+detail, and communication style.
+While there are doubts about increased accuracy with newer 
+models, role prompting still significantly affects language style and communication approach.
+Role Prompting Structure
+Identity Assignment
+You are [specific role].Goal Definition
+Your task is to [specific 
+action/goal].
+Perspective Guidance
+Approach this from the perspective of [relevant expertise/mindset].
+Context enhancement and role prompting
+Role Definition
+You are [role/expertise] helping to 
+[specific task].Background
+Context: [relevant background information]Audience
+Audience: [target group and their characteristics]
+Parameters
+Requirements: [specific constraints or guidelines if not in CoT]Task Description
+Task: [detailed description of what needs to be done]

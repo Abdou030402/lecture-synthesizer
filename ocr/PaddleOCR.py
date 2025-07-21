@@ -1,21 +1,37 @@
-from paddleocr import PaddleOCR
-from preprocessing import preprocess_image
+from paddleocr import PaddleOCR, draw_ocr
+from PIL import Image
+import os
 
-INPUT_IMAGE_PATH = "OCR_test_documents/handwritten2.png"
-PREPROCESSED_IMAGE_PATH = "OCR_test_documents/handwritten2_preprocessed.png"
+ocr = PaddleOCR(use_angle_cls=True, lang='en', use_gpu=False)
 
-preprocess_image(INPUT_IMAGE_PATH, PREPROCESSED_IMAGE_PATH)
+def run_paddle_ocr(image_path: str, output_dir: str = "PaddleOCR") -> str:
+    os.makedirs(output_dir, exist_ok=True)
 
-ocr = PaddleOCR(use_angle_cls=True, lang='en')
-result = ocr.ocr(PREPROCESSED_IMAGE_PATH, cls=True)
+    results = ocr.ocr(image_path, cls=True)
 
-extracted_text = []
-for line in result[0]:
-    extracted_text.append(line[1][0])
+    lines = []
+    for line in results:
+        for box, (text, confidence) in line:
+            lines.append(text)
 
-output = "\n".join(extracted_text)
+    final_text = "\n".join(lines)
 
-with open("paddleocr2_output.txt", "w", encoding="utf-8") as f:
-    f.write(output)
+    image_name = os.path.splitext(os.path.basename(image_path))[0]
+    output_txt_path = os.path.join(output_dir, f"{image_name}.txt")
+    with open(output_txt_path, "w", encoding="utf-8") as f:
+        f.write(final_text)
 
-print("[PaddleOCR] Done. Saved to paddleocr_output.txt")
+    image = Image.open(image_path).convert("RGB")
+    boxes = [res[0] for line in results for res in line]
+    texts = [res[1][0] for line in results for res in line]
+    scores = [res[1][1] for line in results for res in line]
+    font_path = "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"
+    annotated_img = draw_ocr(image, boxes, texts, scores, font_path=font_path)
+    annotated_img = Image.fromarray(annotated_img)
+    output_img_path = os.path.join(output_dir, f"paddle_annotated_{image_name}.png")
+    annotated_img.save(output_img_path)
+
+    print(f"Processed: {image_path}")
+    print(f"→ Text saved to: {output_txt_path}")
+    print(f"→ Annotated image saved to: {output_img_path}")
+    return final_text
