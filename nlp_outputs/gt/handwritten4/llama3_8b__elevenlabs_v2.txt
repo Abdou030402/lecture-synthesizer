@@ -1,0 +1,19 @@
+<speak>
+
+Today, we're going to dive into two important concepts in statistical inference: p-values and confidence intervals. Now, I know some of you might be thinking, "What's the difference between these two?" Well, let me tell you – they're both crucial tools for making decisions based on data.
+
+First off, a p-value or probability value is the probability of finding the observed t-statistic when the null hypothesis would indeed be true. Think of it like this: imagine flipping a coin and getting heads 10 times in a row. The probability of that happening by chance is extremely low, right? That's roughly what a p-value represents – the likelihood of observing your data or something more extreme assuming the null hypothesis is true.
+
+Now, let's talk about confidence intervals. A confidence interval is used to provide an estimate of the population parameter, which in our case is β₀. The idea is that if β₀ is outside the confidence interval, we can interpret this as evidence against the null hypothesis. It's like saying, "Hey, my data is telling me something different than what I expected, so maybe there's more to it than just chance."
+
+Here's an example to illustrate this: let's say you're a researcher studying the effect of exercise on blood pressure. Your null hypothesis is that exercise has no impact on blood pressure. You collect some data and find that the mean blood pressure for exercisers is significantly lower than for non-exercisers. If your p-value is, say, 0.02, that means there's only a 2% chance of observing this difference assuming exercise has no effect. That's pretty strong evidence against the null!
+
+But here's where confidence intervals come in – they give you a range of values within which the true population parameter likely falls. So, if your confidence interval is, for instance, (-5, -3), that means there's a 95% chance that the true effect size is between -5 and -3. If β₀ falls outside this range, it's like saying, "Hey, my data is telling me something different than what I expected – maybe exercise really does have an impact on blood pressure!"
+
+In conclusion, both p-values and confidence intervals are essential tools for making informed decisions based on your data. By understanding how to interpret these values, you'll be better equipped to draw meaningful conclusions from your research.
+
+<break time="1s"/>
+
+Now, let's practice applying these concepts to some real-world scenarios. I want you all to think about a study that's particularly relevant to your interests or fields of study. Can you come up with an example where p-values and confidence intervals might be useful?
+
+</speak>

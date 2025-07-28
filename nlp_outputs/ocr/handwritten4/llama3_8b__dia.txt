@@ -1,0 +1,9 @@
+[S1]
+
+Now, let's talk about the value of probability in statistics. You see, when we're dealing with multiple hypotheses, it's essential to understand the probability of finding the absence of a statistical phenomenon when indeed all those hypotheses would be true. In other words, what is the likelihood that our observations are simply due to chance?
+
+Now, one way to approach this is by using confidence intervals. Essentially, a confidence interval gives us a range within which we can say that our estimate lies. And if B, for instance, falls outside of that range, we can interpret this as evidence against the null hypothesis.
+
+(smiles) So, in essence, probability and confidence intervals work together to help us make informed decisions about the validity of our statistical findings. (pauses) By considering the probability of finding the absence of a phenomenon when all hypotheses are true, we're actually testing the strength of our conclusions. And if they don't pass that test, well, then it's time to revisit our assumptions and refine our understanding.
+
+(emphasizes) So, let me summarize: probability is crucial in statistics, especially when dealing with multiple hypotheses. By using confidence intervals, we can gain a better understanding of the uncertainty surrounding our estimates and make more informed decisions about the validity of our findings. (smiles)

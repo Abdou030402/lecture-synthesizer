@@ -1,0 +1,11 @@
+<speak>
+Welcome everyone to the lecture on The Fourth Annual Test of Optical Character Recognition (OCR) Accuracy. This test, conducted annually by ISRI, is popularly known as "page readers." These systems aim to identify machine-printed characters on a page from a bitmapped image of any document page.
+
+Over four years, the scope and complexity of this test have significantly grown. In the initial year, six OCR systems processed 278,000 characters from 132 pages of scientific and technical documents. The following year, new performance measures were introduced for eight OCR systems using a larger sample from the US Department of Energy (DOE). Last year, we tested these systems on pages containing nearly 1.5 million characters, including articles from popular U.S. magazines scanned at three different resolutions.
+
+This year, we present the results of our most comprehensive test to date. The test samples contain over three million characters from various sources such as business letters, DOE documents, articles from magazines and newspapers. Each page has been scanned four times, producing binary images at three different resolutions, and one gray scale image.
+
+In a first, we introduce our non-English sample - a collection of Spanish-language newspaper articles. Additionally, for the first time, we report the speed of the OCR systems.
+
+The primary goals of this test are fourfold: to provide an independent assessment of system performance, measure advances in technology from year to year, gain insight into the complex nature of OCR, and identify problems at the state-of-the-art. Let's delve deeper into these fascinating findings!
+</speak>

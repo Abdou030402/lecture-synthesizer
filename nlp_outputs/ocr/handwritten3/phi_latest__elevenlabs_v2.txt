@@ -1,0 +1,9 @@
+<speak>
+In my lecture notes, I have noted that the exam is going to be an open book with multiple choice questions. This means that you can use your textbook and class materials to answer some of the questions. However, the rest of the questions are essay-style, so you will need to use critical thinking skills and knowledge from various subjects to form your answers.</speak>
+<break time="1s"/> 
+<speak>
+One important concept that we've discussed in this course is the proof by exhaustion method. This method is useful when the number of possible outcomes is large, or when brute force is not a practical option for finding a solution. By examining all possible scenarios and eliminating those that are not valid, we can arrive at the correct answer.</speak>
+<break time="1s"/> 
+<emphasis level="moderate">
+For example, in our last lecture, we discussed how to solve systems of linear equations using substitution. This method requires us to solve for one variable first and then substitute it into the other equation. By doing this for each possible value of the solved variable, we can find the values that satisfy both equations.</emphasis>
+<break time="1s"/>

@@ -1,0 +1,17 @@
+[S1]
+
+Welcome, students! Today we're going to explore the world of JavaScript. (smiles) So, what is the purpose of JavaScript? Well, it's often referred to as "client-side scripting" for web development. This means that with JavaScript, developers can manipulate the content and behavior of web pages directly within the user's browser - all without requiring any server-side processing. (emphasizes)
+
+Now, let me ask you: have you ever been browsing a website, and suddenly, something on the page changes? Maybe it was a button that changed color or a message that appeared? That's the power of JavaScript at work! With this technology, we can dynamically update web pages, elements, and even validate user input. (pauses for emphasis)
+
+But that's not all. JavaScript also allows us to create interactive experiences by responding to mouse movements and keyboard inputs. Think about it: you're browsing a website, and as you hover over certain elements, they change or reveal new information. That's the magic of JavaScript! (excitedly)
+
+Now, let's talk about how we set up our development environment for working with JavaScript. It's not too complicated, I promise. (smiles) We'll start by setting up a code editor and then move on to creating a basic project structure. Here are the basic steps: (clears throat)
+
+First, we need to choose an IDE - that's Integrated Development Environment. There are many options out there, but some popular ones include Visual Studio Code, Sublime Text, or even Atom.
+
+Next, we'll create a new project directory and add our JavaScript files to it. We can also set up a folder for our HTML and CSS files, as well as any other assets we might need.
+
+Finally, we'll install any necessary dependencies using npm - that's Node Package Manager - or yarn. And that's it! We're ready to start coding in JavaScript. (smiles)
+
+That's the foundation of working with JavaScript. In our next lecture, we'll dive deeper into the world of JavaScript and explore some exciting features and applications. Thanks for joining me today, students! (concludes)

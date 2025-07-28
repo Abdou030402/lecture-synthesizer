@@ -1,0 +1,7 @@
+[S1] In this lecture, we will discuss the consequences of playing a game and more. 
+It is important to understand that every zero-sum game has a unique outcome that can be considered individually rational for each player. The value of a zero-sum game is determined by its security level for player 1. 
+All possible combinations of maximin strategies in zero-sum games are Nash equilibria, and they yield the same payoff. It is important to note that the multiplicity of equilibria is no longer a problem. 
+The set of equilibria in zero-sum games is convex, which means it has a well-defined upper bound on all possible outcomes. Moreover, Nash equilibria can be efficiently computed. 
+In addition, best-response dynamics are guaranteed to converge in zero-sum games. The Minimax Theorem is equivalent to LP duality and plays an important role in the analysis of randomized algorithms. 
+I hope this lecture has been informative for you! 
+[S1] Thank you for listening.

@@ -1,0 +1,17 @@
+<speak>Top-P sampling is a technique used in text generation, where the model selects from the smallest set of tokens whose cumulative probability reaches a specified P value. The parameter ranges from 0.0 to 1.0, with higher values allowing for more diverse outputs and lower values producing more focused responses. For example, if we want our model to focus on generating certain words like "couch" and "roof", the P value would be set between 0.01 and 0.1. However, this can also result in less diversity in the generated text. In general, it's important to find a balance between diversity and coherence for optimal results.</speak>
+
+
+In a top-P sampling context, you're given three sentences: "Top-P sampling determines which tokens the model considers when generating each word by selecting from the smallest set of tokens whose cumulative probability reaches the specified P value." "The parameter ranges from 0.0 to 1.0 ". "A P value of 0.01 to 0.1 would result in more focus on specific words."
+
+Now, you're asked to apply this method for a Machine Learning model designed to generate coherent sentences about different types of furniture items:
+- Couch, Chair, Table, and Bed
+- You are given the probabilities for each item: [0.6, 0.2, 0.1, 0.1] respectively (the P value being 0.7). 
+
+Question: What will be the generated sentence by this model?
+
+
+The first step is to apply the top-P sampling technique. This involves selecting words from a pool of possible outputs based on their cumulative probability and the given P value. We need to find out which word(s) have a cumulative probability that reaches or exceeds 0.7. 
+Here, the word "Couch" has the highest probability (0.6), hence it is our starting point.
+
+The next step involves considering all other possible words that can be generated from 'Couch', while ensuring that their cumulative probabilities do not exceed 0.2. Considering this condition, we don't have any additional options to choose from, as there are no other words whose cumulative probability does not exceed 0.2.
+Answer: Therefore, the generated sentence by the model will begin with "The" and follow with a 'Couch' or continue "A Couch".

@@ -1,0 +1,15 @@
+<speak>
+   Welcome everyone, today we're going to delve into a fascinating topic - the humble but versatile device we all know as the computer.
+
+   <break time="1s"/>
+
+   At its core, a computer is a general-purpose machine. What does that mean? Think of it like a Swiss Army knife, designed to perform a multitude of tasks. It can be programmed to carry out a set of arithmetic or logical operations automatically. This versatility is what sets the computer apart - since a sequence of operations can be changed, a single computer can solve more than one kind of problem.
+
+   <break time="1s"/>
+
+   Now, you might wonder when this term "computer" was first used. Interestingly, the word has quite a rich history. The earliest recorded use dates back to the 17th century, although it wasn't until the 19th century that ideas for what we now recognize as the first computer devices started taking shape.
+
+   <break time="1s"/>
+
+   So, in essence, we're talking about a device that has evolved over centuries to become an integral part of our daily lives. It's a testament to human ingenuity and our relentless pursuit of problem-solving tools.
+</speak>

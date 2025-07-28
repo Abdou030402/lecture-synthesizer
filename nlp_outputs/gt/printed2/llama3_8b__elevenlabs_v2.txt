@@ -1,0 +1,31 @@
+<speak>
+
+Today, we're going to explore a fascinating topic in natural language processing – Top-P sampling. This technique helps us determine which tokens our model considers when generating each word. In other words, it decides what options are available for the next word based on their individual probabilities.
+
+Now, let's dive into the details. Top-P sampling selects from the smallest set of tokens whose cumulative probability reaches a specified P value. This parameter ranges from 0.0 to 1.0, which allows us to control the diversity and predictability of our model's outputs.
+
+To illustrate this concept, let's consider an example. Imagine we're generating text about furniture in your living room. We have four tokens: "mat", "couch", "roof", and "fence". Each token has its own individual probability – the likelihood of being chosen as the next word.
+
+<prosody rate="slow">Now, let's look at this table...</prosody>
+
+Token Choice	Individual Probability
+mat	        0.35
+couch	        0.25
+roof	        0.15
+fence	        0.10
+
+<break time="1s"/>
+
+When our model generates the next word, it will consider tokens with a cumulative probability that reaches or exceeds the specified P value. For instance, if we set P to 0.6, our model will choose from the smallest set of tokens whose individual probabilities add up to 0.6 or more.
+
+<emphasis level="moderate">In this case, our top choices would be "mat" and "couch", since their combined probabilities exceed 0.6...</emphasis>
+
+By adjusting the P value, we can control the balance between diversity and predictability in our model's outputs. Higher values allow for more diverse responses, while lower values produce more focused and predictable text.
+
+<prosody volume="soft">This flexibility is particularly useful when generating text that requires a specific tone or style...</prosody>
+
+In conclusion, Top-P sampling offers a powerful tool for controlling the output of our language models. By carefully tuning the P value, we can balance the trade-off between diversity and predictability to achieve the desired level of coherence and creativity in our generated text.
+
+<prosody pitch="+10%">And that's the beauty of Top-P sampling – its ability to adapt to different contexts and goals...</prosody>
+
+</speak>

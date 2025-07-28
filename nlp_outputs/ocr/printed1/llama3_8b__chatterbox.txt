@@ -1,0 +1,15 @@
+Good morning, class! Today, we're going to explore the fascinating world of optical character recognition, or OCR. You might be wondering what that means, but trust me, it's a crucial technology in our digital age.
+
+For four years now, my colleagues and I have been conducting an annual test called "page readers." We're not just testing any old OCR system; we're looking at the best of the best, trying to see how well they can identify machine-printed characters on a page. And what's the goal of this test? Well, there are several reasons why we do this. First and foremost, we want to provide an independent assessment of these systems' performance. We don't just take their word for it; we want to see how well they actually work.
+
+But that's not all. We also want to measure the advances in OCR technology from year to year. Are the latest and greatest systems better than their predecessors? And finally, by conducting this test, we're hoping to gain insight into the complex nature of OCR itself. Why do some systems perform better than others? What are the challenges they face?
+
+Now, let's take a look at how our test has evolved over time. In the first year, we tested six OCR systems using binary images of 132 pages containing about 278,000 characters. These pages came from a U.S. Department of Energy database, and we randomly selected them to get a good mix. The next year, we introduced some new measures of performance and tested eight OCR systems on an even larger sample of DOE documents – 1460 pages with over 817,000 characters! We wanted to see how well they could handle the volume.
+
+The following year, we decided to switch things up and test these same systems on a completely different type of material: articles from popular U.S. magazines. We scanned those pages at three different resolutions and tested six OCR systems on nearly 1.5 million characters! The results were fascinating.
+
+And now, for the fourth annual test, we've taken it to an all-new level. Our samples contain over three million characters from business letters, DOE documents, and articles from magazines and newspapers. We're not just talking about binary images anymore; we've got gray scale images and even fax images at two different resolutions! And what's more, for the first time ever, we have a non-English sample – Spanish-language newspaper articles. This is going to be an exciting test!
+
+Finally, we want to report on the speed of these OCR systems. How quickly can they process that massive amount of text? We're eager to see how well they'll perform under this new set of challenges.
+
+So, class, are you ready to dive into the world of OCR and find out which system comes out on top? Let's get started!

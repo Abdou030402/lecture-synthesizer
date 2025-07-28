@@ -1,0 +1,11 @@
+[S1]
+
+Welcome, everyone! Today, we're going to explore the world of JavaScript and discover its incredible potential. Let's dive right into it!
+
+So, what is JavaScript's primary purpose? Well, its main goal is to enable client-side scripting on web pages. This means developers can manipulate the content and behavior of those web pages directly within the user's web browser. (smiles)
+
+With JavaScript, we can dynamically update web page elements, validate form inputs, and respond to user interactions like clicks, mouse movements, and keyboard input. It's incredibly powerful! (emphasizes) And if that wasn't enough, JavaScript can even interact with web servers through AJAX - Asynchronous JavaScript and XML - to fetch data without requiring a page reload. (pauses for dramatic effect)
+
+Now, before we start coding in JavaScript, we need to set up our development environment. Don't worry; it's relatively straightforward. Here are the basic steps:
+
+(Looks around) And that's just the beginning! In our next lecture, we'll delve deeper into the world of JavaScript and explore its many capabilities. But for now, I hope this gives you a solid foundation to start your coding journey. Thank you, and I'll see you in the next one!

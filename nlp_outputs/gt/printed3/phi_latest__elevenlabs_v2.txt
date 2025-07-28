@@ -1,0 +1,16 @@
+[Break]
+Welcome, students! Today, I will be explaining a fascinating concept in game theory called "zero-sum games." Let's dive right into it!
+
+In every zero-sum game, there is an outcome that benefits one player while simultaneously disadvantaging the other. This means that for any given game, the total gain or loss by both players must always be equal, resulting in a net sum of zero.
+
+To understand this further, let's consider a scenario where two friends, Alice and Bob, are playing a zero-sum game called "Cheek to Cheek." In this game, each player takes turns choosing between two options: "cheek" or "no cheek." If both players choose "cheek," they receive equal points. However, if one chooses "cheek" and the other "no cheek," the player who chose "no cheek" receives more points than their opponent.
+
+Now, let's move on to a question: Is it possible for Alice and Bob to reach a point where both of them are happy with their choices? The answer is no! Since zero-sum games have this inherent characteristic, there is no way for both players to maximize their rewards without one player losing out. 
+
+In the field of game theory, there is a theorem called "the minimax theorem" that states all maximin strategies in a zero-sum game are Nash equilibria. This means that each player's strategy is the best they can do given what the other player is doing, resulting in an outcome where both players have no incentive to deviate from their chosen strategy.
+
+The interesting thing about Nash equilibria is that they all yield the same payoff for the first-mover. This implies that if Alice chooses her move before Bob, she will always receive a higher payout than if Bob made his choice first.
+
+Now, let's discuss an important concept in game theory called "LP duality." It states that the set of Nash equilibria in a zero-sum game can be efficiently computed and that best-response dynamics are guaranteed to converge for all equilibria. This is crucial because it helps us understand how players will act in response to different strategies, leading to a better understanding of their decision-making process.
+
+In conclusion, the analysis of zero-sum games is a fascinating area of study with numerous real-world applications. Understanding the dynamics of these games can help us make more informed decisions in various situations, such as business negotiations or international relations.

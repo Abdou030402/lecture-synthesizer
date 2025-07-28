@@ -1,0 +1,12 @@
+(S1) Today, I will be talking about top-P sampling in natural language processing. 
+
+(S2) Top-P sampling is a technique used by models to select which tokens are most likely to appear when generating words. This is done based on the cumulative probability of the selected token set reaching the specified P value. 
+
+(S3) The parameter P ranges from 0.0 to 1.0, with higher values allowing for more diverse outputs and lower values producing more focused and predictable responses. 
+
+(S4) For example, if we have a list of tokens {mat, couch, roof, fence} with individual probabilities {0.35, 0.25, 0.15, 0.10}, top-P sampling would select the smallest set of tokens whose cumulative probability reaches the desired P value. 
+(S5) This allows for more nuanced and natural-sounding outputs, while still maintaining some degree of predictability. 
+
+(S6) Top-P sampling is used in various applications, including speech synthesis, machine translation, and text generation. It helps to improve the quality and diversity of generated content by selecting from a broader range of token sets.
+
+(S7) Thank you for your attention. Do you have any questions?

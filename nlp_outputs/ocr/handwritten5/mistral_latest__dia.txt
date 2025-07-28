@@ -1,0 +1,9 @@
+**S1** Hello class, today we're going to delve into the fascinating world of JavaScript. This powerful tool serves as "scripting for web," enabling developers to manipulate the content and behavior of webpages directly within the user's browser - i.e., client-side scripting.
+
+(Smiles) With JavaScript, we can dynamically update web pages, elements, even validate forms. And here's an interesting aspect: it also tracks mouse movements and keyboard inputs.
+
+(Pauses) Additionally, JavaScript can interact with web-servers, thanks to technologies like AJAX - Asynchronous JavaScript and XML. This means it can handle page dedicated data without requiring copyrighted content from external sources.
+
+Now, let's move on to setting up the development environment for coding in JavaScript. I'll outline the basic steps.
+
+(Smiles) Let's get started!

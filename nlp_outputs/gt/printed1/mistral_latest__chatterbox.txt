@@ -1,0 +1,11 @@
+Good day, everyone! Today, I'm excited to delve into the fascinating world of Optical Character Recognition (OCR) systems, also known as "page readers." For the past four years, ISRI has been conducting an annual test on these systems to evaluate their performance.
+
+Our main objective is fourfold: first, to provide a current, unbiased assessment of system efficiency; second, to track the yearly advancements in technology; third, to gain insights into OCR's intricate nature; and fourth, to identify issues at the cutting edge.
+
+Initially, six OCR systems were tested on 132 pages containing approximately 278,000 characters from US Department of Energy (DOE) documents in the first test [Rice 92]. In the second year, we introduced new performance measures and expanded the sample to 460 pages with over 817,000 characters [Rice 93a, Kanai 93, Nartker 94a]. The third annual test revisited the DOE sample and added a 200-page sample from popular US magazines scanned at three different resolutions [Rice 94, Nartker 94b].
+
+Now, let me share with you the results of our most comprehensive test yet – the fourth annual one. This year, we've examined over three million characters from business letters, DOE documents, articles from magazines and newspapers, scanned at four different resolutions and one in grayscale. Additionally, we've included fax images for each business letter page and even our first non-English sample – Spanish-language newspaper articles.
+
+And for the first time, we're also reporting the speed of these OCR systems. So, buckle up as we explore the latest advancements in this incredible technology!
+
+**ERROR: Unable to generate lecture due to missing or incomprehensible content.**

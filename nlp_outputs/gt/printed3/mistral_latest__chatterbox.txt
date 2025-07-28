@@ -1,0 +1,15 @@
+Good afternoon, ladies and gentlemen! Today we're going to delve into an exciting topic - Zero-Sum Games. Let me set the stage by explaining what I mean when I say 'zero-sum.' Imagine you and a friend are playing a game where whatever one person wins, the other loses an equal amount. The total sum of winnings remains constant, hence the name 'zero-sum.'
+
+Now, every zero-sum game has a unique outcome that is considered 'individually rational' – this means it's a situation where each player makes the best decision based on their own interests given the actions of the other players. By convention, we assign the value of a zero-sum game to the security level of Player 1.
+
+Interestingly, all combinations of maximin strategies in these games are Nash equilibria. Now, a Nash equilibrium is a situation where no player can benefit by unilaterally changing their strategy as long as the other players keep theirs unchanged. When it comes to zero-sum games, these equilibria yield the same payoff for all combinations of maximin strategies.
+
+You might wonder, 'With so many Nash equilibria, isn't there a risk of confusion?' Well, fear not! The multiplicity of equilibria is no longer a real problem because the set of Nash equilibria in zero-sum games forms a convex set – meaning if we draw the line connecting any two equilibria, it will always lie within the set of all possible equilibria.
+
+What's more, finding Nash equilibria in zero-sum games can be efficiently computed! This efficiency is due to FP and other best-response dynamics, which are guaranteed to converge in zero-sum games – meaning they will eventually land us at one of the equilibria.
+
+The Minimax Theorem plays a crucial role here, as it's equivalent to Linear Programming (LP) duality. For those who aren't familiar with LP duality, it's a fundamental concept in mathematics that helps analyze randomized algorithms, which are algorithms designed to operate probabilistically and make optimal decisions under uncertainty.
+
+So, there you have it! Zero-Sum Games, Nash equilibria, Minimax Theorems – all essential tools in the arsenal of game theory. As we continue our journey into this fascinating field, I hope these concepts will prove useful, and I look forward to exploring more together.
+
+Any questions so far? Let's open the floor for some discussion!

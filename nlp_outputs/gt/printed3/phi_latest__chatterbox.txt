@@ -1,0 +1,13 @@
+Hello, and welcome to today's lecture on Zero-Sum Games! In this class, we will be discussing the properties and characteristics of zero-sum games and their importance in game theory.
+
+A zero-sum game is a type of game where the total gains and losses are equal for all players. This means that if one player wins, another player must lose. For example, in the classic game of chess, each player's score at the end of the game is determined by the number of pieces they have captured or put into checkmate. If a player captures an opponent's piece, then their own score increases while their opponent's decreases.
+
+One important property of zero-sum games is that they are "determined." This means that there is a unique outcome where each player's payoff is maximized and the game ends. In other words, once a game is played out, there is no way for any player to improve their payoff without sacrificing another player's payoff as well.
+
+Another important property of zero-sum games is that all combinations of strategies in these types of games are called "Nash equilibria." This means that each player will choose the strategy that maximizes their own payoff, given what they know about the other players' strategies. In addition to being Nash equilibria, these strategies also yield the same payoff for both players.
+
+The multiplicity of equilibria in zero-sum games is no longer a problem. This means that there are multiple possible outcomes where each player's payoff is maximized, as long as they all choose the correct strategy. These multiple equilibria are called "convex," which means that if one player increases their payoff by a certain amount, the other players will also increase their payoffs by an equal or larger amount.
+
+One important theorem related to zero-sum games is the Minimax Theorem. This theorem states that for any zero-sum game and each possible strategy, there exists a single strategy that maximizes a player's payoff while minimizing the other player's payoff. This theorem is closely related to linear programming duality and plays an important role in the analysis of randomized algorithms.
+
+In conclusion, zero-sum games are an important concept in game theory. They have many properties and characteristics that make them useful for analyzing strategic behavior and decision making. Thank you for listening, and I hope you found this lecture informative!

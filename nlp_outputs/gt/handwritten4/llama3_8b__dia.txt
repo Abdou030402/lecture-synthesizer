@@ -1,0 +1,10 @@
+[S1]
+
+Now, let's dive into one of the most fundamental concepts in statistical inference: the p-value. (smiles) So, what is a p-value? Well, it's actually quite simple. The p-value represents the probability of finding the observed t-statistic when the null hypothesis would indeed be true. In other words, if the null hypothesis were correct, what's the chance we'd get this particular result or something more extreme?
+
+Now, let's tie this in with our confidence intervals. (pauses) A confidence interval is used to provide a range of values within which the true population parameter is likely to lie. And here's where the p-value comes in: if the null hypothesis were true, what's the probability that our observed t-statistic would fall outside this confidence interval? That's right, it's the same thing as our p-value!
+
+So, when we're interpreting our results, if the value of βₕ₀ falls outside the confidence interval, (emphasizes) we can actually interpret this as evidence against the null hypothesis. In other words, it suggests that the alternative hypothesis is more plausible.
+
+(pauses for emphasis)
+In conclusion, the p-value and confidence interval are two powerful tools in our statistical arsenal. By combining these concepts, we can gain a deeper understanding of our data and make informed decisions based on our findings.

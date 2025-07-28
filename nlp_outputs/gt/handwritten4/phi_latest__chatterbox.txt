@@ -1,0 +1,1 @@
+"Today, I will be discussing p-values and confidence intervals. In statistics, a p-value measures the probability of finding the observed t-statistic if the null hypothesis were true. A confidence interval, on the other hand, is used to determine whether we have enough evidence to reject the null hypothesis based on the observed data."

@@ -1,0 +1,11 @@
+Welcome, everyone! Today, we're going to dive into the fascinating world of Optical Character Recognition, or OCR. Specifically, we'll be exploring the Fourth Annual Test of OCR Accuracy, a benchmarking exercise that's been running for four years now.
+
+So, what's the goal of this test? Well, it's twofold. First, we want to provide an independent assessment of how well different OCR systems perform. Think of it like a standardized test for OCR software. Second, we're trying to measure how much these systems have improved over time, which gives us insight into the rapid advancements being made in this technology.
+
+Now, let's take a step back and look at the history of this test. In the first year, six OCR systems were tested on 132 pages containing around 278,000 characters. These pages came from a database provided by the U.S. Department of Energy, featuring scientific and technical documents. The next year, we introduced new measures to evaluate eight OCR systems using an even larger sample of DOE documents – that's 460 pages with over 817,000 characters! We've continued to increase the scope of the test each year, and this latest test is our biggest and most comprehensive one yet.
+
+In this report, you'll see the results from the fourth annual test. This time around, we're dealing with a whopping three million characters from business letters, DOE documents, and articles from magazines and newspapers. What's new is that each page has been scanned four times at different resolutions – binary images at three different levels, plus one gray scale image. And get this: for the first time ever, we've also included fax images of business letter pages at two different resolutions!
+
+But here's the exciting part: this test marks our first foray into non-English samples. We're introducing a collection of Spanish-language newspaper articles to challenge these OCR systems. And, for the first time, we'll be reporting on the speed of these systems – how fast can they really process all that text?
+
+So, get ready to explore the ins and outs of OCR technology with me today. We'll dissect the results from this latest test, discussing what it takes for an OCR system to excel in a world where accuracy, speed, and language diversity are key.

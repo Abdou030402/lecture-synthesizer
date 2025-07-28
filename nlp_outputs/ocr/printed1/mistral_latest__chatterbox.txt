@@ -1,0 +1,13 @@
+Ladies and Gentlemen,
+
+Welcome to today's lecture! We're delving into an exciting topic that bridges technology and language - The Fourth Annual Test of Optical Character Recognition (OCR) Accuracy. This test has been conducted annually for the past four years by a team comprising Stephen V. Rice, Frank R. Jenkins, and Thomas A. Nartker.
+
+The purpose of this test, often referred to as "page readers," is multi-faceted. Firstly, it provides an independent assessment of the performance of these OCR systems in our modern world. Secondly, it measures the advancements in this technology from year to year. Thirdly, it offers insights into the complex nature of OCR. Lastly, it identifies problems at the cutting edge of what's possible.
+
+Over the years, the scope of the test has significantly expanded. In the initial test, six systems processed binary images of 132 pages containing approximately 278,000 characters from U.S. Department of Energy (DOE) documents. The following year, eight systems were evaluated using a larger DOE sample of 1460 pages and 817,000 characters. The third annual test featured a 200-page sample of articles from popular U.S. magazines scanned at three different resolutions, testing six OCR systems on nearly 1.5 million characters.
+
+In this year's report, we present the results of our largest and most comprehensive test to date. The samples contain over three million characters from business letters, DOE documents, and articles from magazines and newspapers. Each page has been scanned four times to produce binary images at three different resolutions, plus one gray scale image. Additionally, fax images at two different resolutions have been obtained for each business letter page.
+
+For the first time, we've introduced our first non-English sample - a collection of Spanish-language newspaper articles. Moreover, we're reporting the speed of the OCR systems for the first time in this test. So, fasten your seatbelts as we delve into the fascinating world of OCR and explore its capabilities!
+
+Thank you, and let's get started!

@@ -1,0 +1,29 @@
+<speak>
+
+Welcome, students. Today, we're going to explore the fascinating world of Optical Character Recognition, or OCR. You may have heard of this technology, but let me tell you, it's come a long way in just four years. And that's exactly what we're going to discuss - the Fourth Annual Test of OCR Accuracy.
+
+For those who are new to OCR, let me explain. It's a system that takes a bitmapped image of any document page and attempts to identify the machine-printed characters on that page. That's right; it's like having a super-smart, computerized reader that can read printed text just as well as you or I.
+
+Now, our annual test is designed to measure the accuracy of this process by comparing the text produced as output with the correct text. It's a crucial evaluation because it helps us understand how OCR systems have improved over time and where we need to focus our research efforts.
+
+Over the past four years, we've seen significant growth in the scope of our test. In the first year, for example, six OCR systems processed binary images of 132 pages containing a total of 278,000 characters. These pages were randomly selected from a U.S. Department of Energy database of scientific and technical documents.
+
+As you can imagine, the complexity of OCR systems has increased dramatically since then. In fact, our third annual test featured a massive sample of articles from popular U.S. magazines scanned at three different resolutions. And let me tell you, it was a real challenge for those six OCR systems to process nearly 1.5 million characters!
+
+Now, we're proud to present the results of our fourth and largest annual test yet. This time around, we've collected more than three million characters from business letters, Department of Energy documents, articles from magazines and newspapers - you name it! Each page has been scanned four times to produce binary images at three different resolutions, plus one gray scale image. And for the first time, we're reporting on the speed of these OCR systems.
+
+But here's what really gets me excited: this year, we've introduced our first non-English sample - a collection of Spanish-language newspaper articles. It's a crucial step forward in understanding how OCR technology can be applied to languages beyond English.
+
+So, without further ado, let's dive into the results of our fourth annual test and explore what they mean for the future of Optical Character Recognition.
+
+<break time="2s"/>
+
+Now, I know some of you might be thinking, "OCR sounds like a pretty straightforward process. What's the big deal?" Well, my friends, it's not just about recognizing characters. OCR is a complex technology that requires sophisticated algorithms and machine learning techniques to accurately identify text.
+
+Take our non-English sample, for example. It's not just about recognizing Spanish characters; it's about understanding the nuances of language and culture. That's why we're excited to share these results with you today.
+
+<prosody rate="slow">Now, let's take a closer look at the performance of each OCR system...</prosody>
+
+And that's exactly what we'll be doing over the next few minutes. So, sit back, relax, and get ready to learn more about the latest advances in Optical Character Recognition.
+
+</speak>

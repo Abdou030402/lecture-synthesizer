@@ -1,0 +1,31 @@
+"Hello, and welcome to today's lecture on the purpose of JavaScript. Today, we're going to explore how this programming language can be used for web-development and why it has become so popular."
+
+
+In a web development company, there are five software developers, namely Alice, Bob, Charlie, Donna, and Elisa. Each one of them is working on a different project related to the lecture: Project A - Web server setup, Project B - Coding in JavaScript, Project C - Creating dynamic updates for web pages, Project D - Implementing Mouse-movements using JavaScript, and Project E - Leveraging JavaScript for data transmission over the web.
+
+Here are some clues:
+1. Alice is not working on Project A or D. 
+2. The developer working on Project B is either Bob or the one who follows Elisa in the sequence.
+3. Charlie is working on Project C and does not follow Elisa directly after him.
+4. Donna is next to the developer working on project A but isn't following her immediately. 
+5. Alice doesn't work just before or just after Elisa.
+6. The developers are positioned in the sequence: Bob, Alice, Elisa, Charlie, and Donna.
+7. The developer who follows Donna is not working on Project C. 
+
+Question: What project is each developer working on?
+
+
+From Clue 3, we know that Charlie is working on Project C. Also, from Clue 6, we can infer that Bob isn't working on Project A or D since he is the one before Alice who isn’t working on these projects as per Clue 1. Therefore, Bob must be working on Project B because Elisa follows him in the sequence according to Clue 2.
+
+From Clue 7, we know that the developer after Donna cannot work on Project C. Since Alice is not working on A or D and Donna can't follow her immediately (according to Clue 4), then Donna must be working on Project E (which is the only project left for Elisa). 
+
+Alice has only two projects left: B and D. But we know that Bob is working on Project B, so Alice must be working on Project D.
+
+From Clue 1, we know Alice isn't following Elisa who works on Project E. Since Charlie (Project C) cannot follow Elisa according to Clue 3, the only remaining developer for Project E (Donna) is followed by Charlie (Project C), which confirms that Bob must be working on Project B.
+
+Answer: 
+Alice - Project D
+Bob - Project B
+Charlie - Project C
+Donna - Project E
+Elisa - Project A

@@ -1,0 +1,21 @@
+<speak>
+
+Welcome, students! Today we're going to explore the fascinating world of fluid dynamics. And I'm excited to share with you the concepts that will help us understand how fluids behave under different conditions. Now, let's dive into our first topic: pressure.
+
+You see, when it comes to pressure, we need to consider two important factors: volume and weight. Imagine a syringe filled with liquid - its volume is what we're interested in here. Now, if we were to measure the weight of that liquid using a scale, we'd find that it's equal to one pound. But here's the key point: pressure is not just about weight; it's also about how that weight is applied.
+
+Think of it like this: imagine you're holding a heavy object - say, a large book. If you hold it gently, the pressure is relatively low, but if you squeeze it tightly, the pressure increases. That's because the same weight is now being applied over a smaller area. Make sense?
+
+Now, let's move on to the concept of area. In fluid dynamics, we're interested in the area over which a force is applied - this is called the "area of application." And here's where things get interesting: when we're dealing with continuous flows, like water or air moving through a pipe, the area of application becomes crucial.
+
+Let me illustrate this with an example. Imagine you have a garden hose with a small nozzle at the end. If you turn the faucet on and let the water flow freely, it will spread out over a larger area. But if you use a spray nozzle or a sprinkler head, the water is focused onto a smaller area - resulting in higher pressure.
+
+Now, I know some of you might be thinking, "Wait, what about those fancy-schmancy fluid dynamics equations?" Don't worry; we'll get to those later. For now, let's focus on understanding the fundamental concepts that govern how fluids behave.
+
+And speaking of fluids, have you heard of the Ziff-F (or Zef) flow? No? Well, it's a type of flow that occurs when there's a significant change in the fluid's velocity or pressure. And I'll tell you more about it later - but for now, just remember that it's an important concept in fluid dynamics.
+
+So, to summarize: we've covered volume and weight, applied pressure, area of application, and even touched on the Ziff-F flow. As we move forward, we'll build upon these concepts to explore more advanced topics in fluid dynamics. And I promise you, it's going to be a wild ride!
+
+<break time="1s"/>
+
+Now, let's take a closer look at some real-world applications of fluid dynamics...

@@ -1,0 +1,5 @@
+(smiling) Welcome, class! Today we will be discussing a fascinating topic in mathematics - zero-sum games. As you may already know, every zero-sum game has a unique "determined" outcome that is "individually rational" for each player. The value of the game is the security level of player 1. 
+
+It's important to note that all combinations of maximum strategies in zero-sum games are Nash equilibrium, and this yield the same payoff. However, the multiplicity of equilibrium is no longer a real problem, as the set of equilibrium is convex. Additionally, it is worth mentioning that Nash equilibrium in zero-sum games can be efficiently computed, and FP (a best-response dynamic) and other best-response dynamics are guaranteed to converge. Finally, we have the Minimax Theorem, which is equivalent to LP duality and plays an important role in the analysis of randomized algorithms. 
+
+I hope that was helpful in understanding zero-sum games, and I'm always here if you have any further questions!

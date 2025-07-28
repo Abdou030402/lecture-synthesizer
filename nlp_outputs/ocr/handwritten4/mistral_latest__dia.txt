@@ -1,0 +1,15 @@
+[S1] Good day, students! Today, I'd like to discuss a key concept in statistics – the idea of p-value and its significance.
+
+In statistical analysis, the p-value represents the probability of finding results as extreme or more extreme than the observed results if the null hypothesis is true. Essentially, it provides an indication of how likely it is that our observed results could have occurred by chance alone. A smaller p-value indicates stronger evidence against the null hypothesis.
+
+To help us understand this better, let's consider a confidence interval. This tool is used to estimate a population parameter with a specified level of certainty. If our calculated value falls within the confidence interval, we can interpret it as supporting the null hypothesis. However, if the calculated value falls outside the confidence interval, especially if it lies far from the upper or lower bounds, we can interpret this as evidence against the null hypothesis.
+
+In other words, a small p-value and a calculated value falling outside of the confidence interval would both suggest that our results are unlikely to have occurred by chance alone, thus providing evidence for rejecting the null hypothesis.
+
+(Pauses)
+
+Now let's bring it back to our original question: what is the p-value? The p-value is a measure of the probability of finding results as extreme or more extreme than the observed results if the null hypothesis were true. It helps us evaluate the strength of evidence against the null hypothesis, and ultimately make informed decisions based on our statistical analysis.
+
+(Smiles)
+
+Thank you for your attention! Let's dive deeper into this concept in our next class session.

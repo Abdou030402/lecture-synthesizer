@@ -1,0 +1,4 @@
+<speak>Hello, welcome to today's lecture on the evolution and functionality of computers.</speak>
+[...break time="1s"/> You mentioned that a computer is a general-purpose device that can be programmed to perform various tasks automatically. That's absolutely correct! Computers are incredibly versatile machines that have revolutionized many aspects of our lives. They are designed to carry out complex operations, such as performing mathematical calculations or following logical sequences. 
+
+[...emphasis level="moderate">The word "computer" was first used in the early computer devices.</emphasis> The first computers were conceptualized in the nineteenth century by some brilliant minds who sought to create machines that could perform tasks with precision and speed.]

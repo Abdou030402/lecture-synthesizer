@@ -1,0 +1,21 @@
+[S1]
+
+Welcome, everyone! Today, I'd like to share with you the results of the Fourth Annual Test of Optical Character Recognition (OCR) Accuracy. This test has been a significant endeavor in our pursuit of understanding and improving the technology behind OCR systems.
+
+For four years now, the International Imaging Standards and Research Institute (ISRI) has conducted an annual test to assess the accuracy of these systems. The goal is straightforward: take a bitmapped image of any document page, feed it into an OCR system, and see how well it identifies the machine-printed characters on that page. We then compare the output with the correct text to measure the accuracy.
+
+This test has four main objectives. First, we aim to provide an independent assessment of current system performance. Second, we want to measure the advancements in technology from year to year, giving us a sense of how far OCR has come. Third, we're interested in gaining insight into the complex nature of OCR itself. And finally, we hope to identify any problems that exist at the state-of-the-art.
+
+Let's take a look at how this test has evolved over time. In our first test, six OCR systems processed binary images of 132 pages containing around 278,000 characters. These pages were randomly selected from a U.S. Department of Energy (DOE) database of scientific and technical documents. That was four years ago.
+
+In the second year, we introduced new measures to evaluate eight OCR systems using an even larger DOE sample – 460 pages with nearly 817,000 characters. And in our third annual test, we re-used that same DOE sample but added a twist: we featured a 200-page sample of articles from popular U.S. magazines scanned at three different resolutions. Six OCR systems were tested on these pages, containing almost 1.5 million characters.
+
+Now, let's jump to the fourth annual test – our largest and most comprehensive to date. We've assembled a massive test sample, containing more than three million characters from business letters, DOE documents, and articles from magazines and newspapers. Each page has been scanned four times to produce binary images at three different resolutions, plus one gray scale image. And for the first time, we're reporting on the speed of these OCR systems.
+
+To make it even more interesting, we've introduced our first non-English sample – a collection of Spanish-language newspaper articles. So, not only are we measuring the accuracy of these systems but also their ability to recognize characters in different languages.
+
+That's a brief overview of our Fourth Annual Test of OCR Accuracy. I hope this gives you a sense of the progress we've made and the challenges that remain in advancing this technology.
+
+(Pauses for emphasis)
+
+Thank you for your attention, and I welcome any questions you may have!

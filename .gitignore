@@ -10,5 +10,6 @@ __pycache__/
 .venv_ocr_craft
 .venv_paddle/
 .venv_paddle
+.env
 
 

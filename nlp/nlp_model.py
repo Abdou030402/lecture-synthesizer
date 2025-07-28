@@ -28,17 +28,11 @@ def generate_professor_lecture(notes: str, ollama_model_name: str, system_prompt
 
 
 def chunk_text(text: str, max_words: int = 600) -> list:
-    """
-    Split text into chunks of approximately max_words words for token-limited models.
-    """
     words = text.split()
     return [' '.join(words[i:i + max_words]) for i in range(0, len(words), max_words)]
 
 
 def combine_chunks(enhanced_chunks: list) -> str:
-    """
-    Combine enhanced text chunks with logical spoken transitions.
-    """
     result = []
     for i, chunk in enumerate(enhanced_chunks):
         if i > 0:

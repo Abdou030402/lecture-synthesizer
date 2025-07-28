@@ -1,0 +1,22 @@
+Hello, and welcome to today's lecture on Analog Electronics. I hope you have a pen and paper ready as we will be covering some advanced concepts here. As always, feel free to ask questions or make notes during the presentation. Let's begin with the first topic - BJT.
+
+Analog Electronics  – I
+Minor‑1 Notes
+BJT → Introduction 
+- There are various types of transistors such as Emitter-Injector Transistor (EIT), NPN Transistor, and PNP Transistor.
+- The basic construction includes three terminals - the emitter, base, and collector.
+- The BJT has two modes of operation – Common Base (CB) and Common Emitter (CE).
+- In CB mode, the current in the base-emitter is controlled by the voltage at the Collector.
+- In CE mode, the current in the collector is controlled by the voltage at the emitter.
+- BJT has a characteristic curve - the current increases with respect to the applied voltage when it's between V<sub>BE</sub> and the saturation point, and the current decreases as the voltage reaches the cut-off point.
+
+BJT Amplifiers →
+Analysis of low freq. 
+- When BJTs are used in amplifier circuits, they operate at low frequencies which allows for efficient amplification.
+- The basic analysis involves determining the gain, frequency response, and stability of the circuit.
+- There are different configurations such as cascaded amplifiers, Darlington pairs, and cascode amplifiers that can be used with BJTs.
+- For each configuration, we need to determine the impedance, input voltage, output current, and gain of the circuit.
+
+Now, let's move on to our exercises for today.
+
+<break time="1s"/>

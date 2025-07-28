@@ -1,0 +1,7 @@
+[S1]Professor: Welcome to my lecture on the history of mathematics. Today, we will explore the fascinating journey of numbers and their evolution through time. Let's begin!
+[0.7: Introduction]
+In ancient times, humans developed a system to count using natural objects like stones or pebbles. As civilizations progressed, mathematical concepts grew in complexity. 
+[0.3: Ancient Egypt]
+Ancient Egyptians used a decimal system and recognized the importance of arithmetic for trade and construction. They introduced hieroglyphs to represent numbers.
+[S1]Professor: [smiles] Can you believe they used symbols instead of digits?
+[Pauses]

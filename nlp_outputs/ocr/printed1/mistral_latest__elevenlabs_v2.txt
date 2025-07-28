@@ -1,0 +1,15 @@
+<speak>
+<break time="1s"/>
+Welcome everyone to the Fourth Annual Test of Optical Character Recognition Accuracy. I'm delighted to be here today, discussing this fascinating topic with you all. The test, conducted by Stephen V. Rice, Frank R. Jenkins, and Thomas A. Nartker, aims to assess the performance of OCR systems, or "page readers," in identifying machine-printed characters from bitmapped images of document pages.
+
+Over four years, the scope of this test has expanded significantly. In the first year, six OCR systems processed 132 pages containing a total of 278,000 characters, randomly selected from a U.S. Department of Energy database. The second year introduced new performance measures and featured eight systems working on a larger DOE sample of 1460 pages and 817,000 characters. Last year, we moved beyond technical documents, testing six OCR systems on 200 pages of articles from popular U.S. magazines scanned at three different resolutions, totaling nearly 1.5 million characters.
+
+<break time="1s"/>
+This year, we present results from our largest and most comprehensive test to date. Our samples contain more than three million characters from various sources – business letters, Department of Energy documents, articles from magazines and newspapers. Each page has been scanned four times at different resolutions, and we've also included a gray scale image and fax images for each business letter page.
+
+<break time="1s"/>
+We're excited to introduce our first non-English sample – a collection of Spanish-language newspaper articles. And for the first time, we will be reporting the speed of the OCR systems in addition to their accuracy.
+
+<break time="1s"/>
+In summary, the Annual Test of Optical Character Recognition Accuracy aims to provide an independent assessment of system performance, measure advances in technology, gain insight into the complex nature of OCR, and identify problems at the state-of-the-art. By testing a variety of documents, resolutions, and languages, we are continually pushing the boundaries of what these systems can achieve.
+</speak>

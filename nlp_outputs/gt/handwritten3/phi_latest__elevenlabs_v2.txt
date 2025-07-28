@@ -1,0 +1,1 @@
+<speak>Welcome to today's lecture on the fundamentals of artificial intelligence. In this course, we will cover concepts such as machine learning and natural language processing. We'll also discuss the history of AI, including early pioneers like Alan Turing and John McCarthy. Let's begin with a brief overview of what AI is.</speech>

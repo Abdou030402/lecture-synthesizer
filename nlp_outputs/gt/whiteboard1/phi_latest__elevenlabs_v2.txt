@@ -1,0 +1,7 @@
+<speak>Hello, students. Today, we will learn about syringes and scales, which are tools used for measuring volume and weight respectively.<br/>We will also discuss the pressure applied while using these tools, which is essential to get accurate measurements. <break time="1s"/> Let's begin.</speak><br/>
+<span class="emphasis level-strong">First, let's talk about syringes.</span> A syringe is a tool used for measuring volume of liquids. It consists of a plunger and a barrel.<br/>
+To measure the volume, we need to make sure that the plunger is fully in contact with the liquid and then push it back and forth until all the liquid is drawn into the needle.<br/>
+Now, let's move on to scales. A scale is used for measuring weight. It can be of different types, such as mechanical or digital. <span class="emphasis level-moderate">To get accurate measurements, we need to make sure that the object being weighed is placed gently and evenly on the scale.</span><br/>
+Now, let's discuss pressure. Pressure is defined as the force per unit area.<br/><br/>When using a syringe or a scale, the amount of pressure applied plays an important role in getting accurate measurements.<br/>
+Finally, I would like to conclude by saying that practice makes perfect! Keep practicing and you'll master these tools in no time. 
+<break time="1s"/>Thank you for joining me in today's lecture, students. Have a great day!</speak>

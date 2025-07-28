@@ -1,0 +1,23 @@
+<speak>
+Good day, students! Today, let's delve into a fascinating topic in statistics – the concept of 'p-value'. Now, the p-value is quite important because it helps us understand the probability that our findings are due to chance rather than the effect we're investigating.
+
+<break time="1s"/>
+
+Imagine flipping a fair coin. The p-value here would be the probability of getting as extreme an outcome as you've observed, even if the coin wasn't actually fair. So, if you flip the coin 10 times and get heads 9 times, that's quite unusual for a fair coin. But, if the p-value tells us it's still likely to happen by chance, we can't conclude that the coin is loaded.
+
+<break time="1s"/>
+
+Now, we often use something called 'confidence intervals' to help us interpret our p-values. A confidence interval is like a range of possible values for an unknown parameter. If this range doesn't include our hypothesis – the idea we're testing – we can say that the results are evidence against our hypothesis.
+
+<break time="1s"/>
+
+Let's consider an example. Suppose we're testing whether the average height of students in our university differs from 170 cm, and our confidence interval doesn't include 170 cm. In that case, we can say that the data provides evidence against the hypothesis that the average student height is exactly 170 cm.
+
+<break time="1s"/>
+
+Remember, a low p-value (usually below 0.05) generally indicates evidence in favor of our hypothesis, while a high p-value suggests that the observed results could be due to chance. But always remember to consider your confidence intervals as well, to get a more complete understanding of your statistical findings.
+
+<break time="1s"/>
+
+That's all for today, class! I hope this helps you understand the significance of p-values and confidence intervals in statistics. Remember, it's not just about getting a low p-value, but also about interpreting it correctly within the context of your data. Happy learning!
+</speak>

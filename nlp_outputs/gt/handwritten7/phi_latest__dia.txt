@@ -1,0 +1,2 @@
+Analog Electronics - I
+Today we're going to be discussing the basics of analog electronics and how transistors are used in this field. Let's start by understanding what an amplifier is and why it's important in amplifying signals.

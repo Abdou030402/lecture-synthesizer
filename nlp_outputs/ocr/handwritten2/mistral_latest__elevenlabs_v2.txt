@@ -1,0 +1,7 @@
+<speak>
+   Good day, students! Today, we're going to delve into a fascinating topic - the computer. Now, you might be thinking, "I use a computer daily, but what exactly is it?" Well, let me explain.
+
+   A computer is essentially a general-purpose device that can be programmed to carry out a wide range of arithmetic or logical operations automatically. Imagine it as a Swiss Army knife, each blade representing a different operation that the computer can perform. And just like you can change the blades on your knife, a sequence of operations in a computer can also be altered, making it versatile enough to solve more than one kind of problem.
+
+   The first use of the word "computer" might surprise you. It was recorded as early as the 17th century! However, the devices we think of when we hear the term "computer" were conceived of much later, in the 19th century. So, while we've had a name for it for quite some time, the machines we know and love today are relatively modern inventions.
+</speak>

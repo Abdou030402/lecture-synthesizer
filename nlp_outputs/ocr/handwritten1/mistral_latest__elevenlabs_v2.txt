@@ -1,0 +1,19 @@
+<speak>
+<break time="1s"/>
+Welcome everyone, to our course titled "International Business Environment" under the code FIBA-ON. Today's lecture focuses on Assignment IBD-017FMA.2024, where we aim to define and discuss the major economic indicators of the international economic environment that influence foreign market decisions with examples.
+
+<break time="1s"/>
+The international economic environment refers to the global conditions that impact businesses, individuals, and economies beyond national borders. This vast landscape encompasses factors such as trade, investment, and exchange rates. It's crucial for businesses venturing into foreign markets, helping them make informed decisions about investment, expansion, production, and pricing strategies.
+
+<break time="1s"/>
+One of the most widely used indicators to measure a country's economic performance is Gross Domestic Product (GDP). Think of GDP as the report card of a country's economy. It represents the total value of all goods and services produced within a country over a specific period, usually a year. Higher growth rates in GDP indicate a healthy economy, encouraging businesses to expand into these markets.
+
+<break time="1s"/>
+Let's consider an example. Suppose you are a business owner looking to invest in two countries: Country A with a GDP growth rate of 5% and Country B with a growth rate of 8%. Even though both countries might have their unique advantages, the higher GDP growth rate in Country B suggests a more robust economy, making it potentially more attractive for investment.
+
+<break time="1s"/>
+Export rates are another important economic indicator. Export rates show how much a country sells to other countries compared to what it buys from them. High export rates may indicate good economic conditions, leading to favorable investment decisions.
+
+<break time="1s"/>
+I hope this sheds some light on the major economic indicators and their influence on foreign market decisions. In our next session, we'll delve deeper into other essential economic indicators and their impact on business decision-making. Until then, happy learning!
+</speak>
