@@ -3,8 +3,7 @@ Bachelor Thesis: AI-Powered Lecture Synthesizer: Generating Human Like Course De
 
 # Local Development : 
 1. Navigate to directory : cd ~/lecture-synthesizer
-2. Activate the virtual environment : source .venv/bin/activate  or  source .venv_chatter/bin/activate or 
-source .venv_ocr_craft/bin/activate or source .venv_paddle/bin/activate
+2. Activate the virtual environment : source .venv_main/bin/activate
 
 - Run 'ollama serve' if using nlp
 - Use : python -m tests.{Script} for testing
@@ -12,3 +11,7 @@ source .venv_ocr_craft/bin/activate or source .venv_paddle/bin/activate
 # Note: 
 Whenever you install new packages with pip install ..., make sure to update the requirements.txt file:
 `pip freeze > requirements.txt`
+
+python main.py --input "/mnt/c/Users/abdou/Desktop/Abderrahmen Chalghaf/test_image.png" --tts dia
+
+

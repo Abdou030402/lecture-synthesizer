@@ -2,7 +2,7 @@
 .vs
 venv
 .venv_chatter/
-venv_chatter
+.venv_chatter
 __pycache__/
 */__pycache__/.venv_chatter/
 .vscode/
@@ -10,6 +10,14 @@ __pycache__/
 .venv_ocr_craft
 .venv_paddle/
 .venv_paddle
+.venv_ollama
+.venv_ollama/
+.venv_main
+.venv_main/
+.venv_elevenlabs/
+.venv_elevenlabs
+.venv_dia/
+.venv_dia
 .env
 
 

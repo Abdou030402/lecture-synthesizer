@@ -1,3 +1,6 @@
+#currently implemented to work only for the first example
+#still need to add a working openai api key to .env
+
 import os
 import json
 import csv
@@ -219,5 +222,5 @@ with open(gt_csv_path, mode="w", newline="", encoding="utf-8") as f_gt, \
                 f_gt.flush() if mode == "gt" else f_ocr.flush()
 
                 print(f"{mode.upper()} | Doc {doc_id} | Model: {model_name} | Prompt: {prompt_style} -> Evaluated")
-                break
-            break
+                break #remove after testing with one case
+            break #remove after testing with one case

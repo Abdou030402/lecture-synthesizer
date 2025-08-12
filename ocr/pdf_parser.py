@@ -23,6 +23,8 @@ def analyze_and_save(pdf_path):
     output_filename = os.path.splitext(pdf_filename)[0] + ".txt"
     output_path = os.path.join(output_folder, output_filename)
 
+    extracted_text = ""
+
     if is_text_pdf(pdf_path):
         extracted_text = extract_text_from_pdf(pdf_path)
         with open(output_path, "w", encoding="utf-8") as f:
@@ -30,6 +32,8 @@ def analyze_and_save(pdf_path):
         print(f"✅ Text extracted and saved to: {output_path}")
     else:
         print("⚠️ This PDF does not contain extractable text. Use OCR instead.")
+    
+    return extracted_text
 
 
 if __name__ == "__main__":  

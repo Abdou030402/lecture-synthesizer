@@ -1,5 +1,5 @@
 import os
-from nlp_model import generate_professor_lecture
+from nlp.nlp_model import generate_professor_lecture
 
 MODELS = ["llama3:8b", "mistral:latest", "phi:latest"]
 SYSTEM_PROMPT_TYPES = ["elevenlabs_v2", "chatterbox", "dia"]

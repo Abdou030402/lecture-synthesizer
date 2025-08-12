@@ -1,37 +1,40 @@
 import torchaudio
 from chatterbox.tts import ChatterboxTTS
 import os
+import argparse
+import sys
 
 chatterbox_model = None
 try:
     chatterbox_model = ChatterboxTTS.from_pretrained(device="cuda")
 except Exception as e:
-    pass
+    print(f"[ERROR] Chatterbox model could not be loaded: {e}", file=sys.stderr)
 
-def synthesize_chatterbox_audio(text: str, output_filename: str):
-    output_dir = "TTS_outputs/Chatterbox"
-    
+def synthesize_chatterbox_audio(text: str, output_filepath: str) -> str:
     if chatterbox_model is None:
-        return f"[ERROR] Chatterbox model not loaded. Cannot synthesize audio for {output_filename}."
-
-    os.makedirs(output_dir, exist_ok=True)
-    output_filepath = os.path.join(output_dir, output_filename)
+        return "[ERROR] Chatterbox model not loaded. Cannot synthesize audio."
 
     try:
+        os.makedirs(os.path.dirname(output_filepath), exist_ok=True)
         audio = chatterbox_model.generate(text)
         torchaudio.save(output_filepath, audio, chatterbox_model.sr)
         return output_filepath
     except Exception as e:
-        return f"[ERROR] Failed to synthesize audio with Chatterbox for '{output_filename}': {e}"
+        return f"[ERROR] Failed to synthesize audio with Chatterbox: {e}"
 
 if __name__ == "__main__":
-    example_text_chatterbox = (
-        "Welcome to this introductory lecture on machine learning. "
-        "Today, we'll cover key concepts such as supervised learning, model training, and evaluation techniques."
+    parser = argparse.ArgumentParser(description="Chatterbox TTS audio generation.")
+    parser.add_argument('--text', required=True, help="The text to convert to speech.")
+    parser.add_argument('--output', required=True, help="The full path to the output .wav file.")
+    args = parser.parse_args()
+
+    saved_path = synthesize_chatterbox_audio(
+        text=args.text,
+        output_filepath=args.output
     )
-    
-    saved_path_chatterbox = synthesize_chatterbox_audio(
-        text=example_text_chatterbox,
-        output_filename="example_lecture_chatterbox.wav"
-    )
-    print(f"Saved: {saved_path_chatterbox}")
+
+    if "[ERROR]" in saved_path:
+        print(saved_path, file=sys.stderr)
+        sys.exit(1)
+    else:
+        print(f"Audio saved to: {saved_path}")
