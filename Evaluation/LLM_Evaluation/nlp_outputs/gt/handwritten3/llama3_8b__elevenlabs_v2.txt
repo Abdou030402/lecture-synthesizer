@@ -1,0 +1,19 @@
+<speak>
+
+Today, we're going to explore some fascinating concepts in probability theory. Specifically, we'll be looking at a type of comparison called stochastic dominance. So, let's dive right in!
+
+Now, imagine you're trying to decide between two options, say L₁ and L₂. Each option represents a set of possible outcomes, and each outcome is associated with a certain probability or likelihood. In our notes, we have two such sets: L₁ = [0.3 : a, 0.7 : b, 0 : c], and L₂ = [0.6 : a, 0 : b, 0.4 : c]. Notice how each option has three possible outcomes, labeled a, b, and c.
+
+To determine which option is more likely to produce the best outcome, we need to compare the two sets using stochastic dominance. In essence, this means determining whether one set of probabilities prefers its outcomes over another. Let me explain it like this: think of each outcome as having a specific value or payoff. Then, for each set, calculate the expected value by multiplying the probability of an outcome by its corresponding value.
+
+Now, let's apply this concept to our examples. For L₁, we have an expected value of approximately 0.3 times the value of a, plus 0.7 times the value of b, and zero times the value of c. Similarly, for L₂, we have an expected value of about 0.6 times the value of a, plus zero times the value of b, and 0.4 times the value of c.
+
+<prosody rate="slow">Now, here's the crucial part:</prosody> based on our calculations, it's most likely that L₂ will have a higher expected value than L₁. This means that, in general, L₂ is more desirable than L₁. <emphasis level="strong">And this is precisely what we mean by stochastic dominance!</emphasis>
+
+<break time="1s"/>
+
+On the other hand, if the situation were reversed – if L₁ had a higher expected value than L₂ – then we'd say that L₁ is the better choice. This would be the least desirable outcome for us.
+
+In conclusion, understanding stochastic dominance allows us to compare and contrast different options based on their associated probabilities. By recognizing which option prefers its outcomes over another, we can make more informed decisions in uncertain environments. And remember, this concept has far-reaching implications across many fields, from economics to finance and beyond!
+
+</speak>

@@ -1,0 +1,11 @@
+[S1] Ladies and Gentlemen,
+
+Let me take you on a journey through the fascinating world of Optical Character Recognition (OCR), an incredible technology that transforms images of text into editable and searchable data. Over the past four years, our annual test, known as "page readers," has been conducting a thorough assessment of various OCR systems to measure their accuracy, advancements, complexity, and problems at the cutting edge.
+
+In the first year, six OCR systems processed 132 pages containing approximately 278,000 characters from a U.S. Department of Energy (DOE) database. The scope expanded in the second year with new performance measures, as eight systems were tested on a larger DOE sample of 1460 pages and 817,000 characters. The third annual test featured a 200-page sample of articles from popular U.S. magazines scanned at three different resolutions, testing six OCR systems on nearly 1.5 million characters (Rice 93, Kanai 93, Nartker 94a).
+
+But today, I am thrilled to present you with the results of our fourth annual test, our most comprehensive and extensive yet. This year's samples include over three million characters from business letters, DOE documents, articles from magazines and newspapers, scanned at four different resolutions, plus one gray-scale image. Moreover, we've introduced our first non-English sample consisting of Spanish-language newspaper articles, and for the first time, we report the speed of the OCR systems.
+
+(Pauses to allow questions or comments)
+
+This technology has come a long way in just four years, and I am eager to delve deeper into its intricacies with you all. So, let's continue this exploration together!

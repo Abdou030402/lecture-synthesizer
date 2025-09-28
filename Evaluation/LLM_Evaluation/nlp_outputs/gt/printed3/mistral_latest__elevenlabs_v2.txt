@@ -1,0 +1,17 @@
+<speak>
+   Welcome, everyone, to this lecture on Game Theory, specifically focusing on Zero-Sum Games and their consequences.
+
+   A zero-sum game is a unique kind of contest where one player's gains result in the other player's losses, and vice versa. The total payoff sums up to zero. Now, you might wonder, how do we determine the outcome of such games? Well, every zero-sum game has a unique 'individually rational' outcome, which is essentially the best possible result for each player given their knowledge of the other's moves.
+
+   By convention, the value of a zero-sum game is assigned to Player 1's security level. This means that if Player 1's payoff is at least this value, they can guarantee themselves this minimum level of outcome regardless of what Player 2 does.
+
+   Now, let's talk about Maximin Strategies. These are strategies where a player chooses the option that maximizes their worst-case scenario. In zero-sum games, all combinations of these Maximin Strategies are Nash Equilibria. Nash Equilibria are situations where neither player can benefit by unilaterally changing their strategy as long as the other player keeps theirs unchanged.
+
+   Interestingly, all these Maximin Strategy combinations in zero-sum games lead to the same payoff. So, even though there may be multiple equilibria, they all result in the same outcome for both players. This multiplicity of equilibria isn't necessarily a problem because it doesn't affect the payoffs.
+
+   Another interesting point is that the set of Nash Equilibria in zero-sum games is convex. This means that if we have two equilibria and move halfway between them, we get another equilibrium.
+
+   The importance of Nash Equilibria in Zero-Sum Games extends to the efficiency of their computation. There are methods such as FP dynamics and others based on best responses that can efficiently find these equilibria.
+
+   Lastly, the Minimax Theorem, which is a cornerstone of Game Theory, is equivalent to Linear Programming Duality. This equivalence plays a crucial role in the analysis of randomized algorithms, helping us understand how probabilities and strategies interact in complex games.
+</speak>

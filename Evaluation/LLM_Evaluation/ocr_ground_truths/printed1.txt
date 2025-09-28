@@ -1,0 +1,18 @@
+The Fourth Annual Test of OCR Accuracy
+Stephen V. Rice, Frank R. Jenkins, and Thomas A. Nartker
+
+1 Introduction
+For four years, ISRI has conducted an annual test of optical character recognition (OCR) systems known as “page readers.” These systems accept as input a bitmapped image of any document page, and attempt to identify the machine-printed characters on the page. In the annual test, we measure the accuracy of this process by comparing the text that is produced as output with the correct text. The goals of the test include:
+
+1. to provide a current, independent assessment of system performance,
+
+2. to measure the advances in the technology from year to year,
+
+3. to gain insight into the complex nature of OCR, and
+
+4. to identify problems at the state-of-the-art.
+
+The scope of the test has increased greatly over the past four years. In the first test [Rice 92], six OCR systems processed binary images of 132 pages containing a total of 278,000 characters. These pages were randomly selected from a U.S. Department of Energy (DOE) database of scientific and technical documents. In the second year, new measures of performance were introduced in evaluating eight OCR systems using a larger DOE sample (460 pages and 817,000 characters) [Rice 93a, Kanai 93, Nartker 94a]. The third annual test re-used this DOE sample and featured a 200-page sample of articles from popular U.S. magazines scanned at three different resolutions. Six OCR systems were thus tested on pages containing nearly 1.5 million characters [Rice 94, Nartker 94b].
+
+In this report, we present the results of the fourth annual test, our largest and most comprehensive to date. The test samples contain more than three million characters from business letters, DOE documents, and articles from magazines and newspapers. Each page has been scanned four times to produce binary images at three different resolutions, plus one gray scale image. Furthermore, fax images at two different resolutions have been obtained for each business letter page. We introduce our first non-English sample, which is a collection of Spanish-language newspaper articles, and for the first time, we report the speed of the OCR systems.
+

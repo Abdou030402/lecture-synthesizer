@@ -1,0 +1,13 @@
+[S1]
+
+Now, let's dive into some fascinating topics. Every zero-sum game, by definition, has a unique outcome that's "determined" – there's no ambiguity about what will happen. And when we talk about individually rational outcomes, you can think of it like this: every player is playing their best possible move, given the moves of their opponents.
+
+Now, in these zero-sum games, we conventionally measure the value as the security level of player one. But here's a key insight: all combinations of maximum strategies in zero-sum games are actually Nash equilibria. And what's more, these equilibrium points yield the same payoff – it's like a stable state that all players converge to.
+
+Now, the multiplicity problem is no longer an issue. We can think of the set of equilibrium as convex – it's like a smooth surface where every point is an equilibrium. And here's the best part: Nash equilibria in zero-sum games can be efficiently computed.
+
+But what about other dynamics? Well, fixed-point (FP) and best-response dynamics are guaranteed to converge in zero-sum games. It's like a self-correcting process that always leads to an equilibrium.
+
+Finally, let's talk about the Minimax Theorem. This is actually equivalent to LP duality – it's like two different ways of looking at the same problem. And this theorem plays a crucial role in the analysis of randomized algorithms. In fact, it's a fundamental tool for understanding how these algorithms work and why they're effective.
+
+(smiles)

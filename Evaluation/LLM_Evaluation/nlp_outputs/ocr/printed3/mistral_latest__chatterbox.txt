@@ -1,0 +1,15 @@
+Good afternoon, students! Today, we're going to delve into the fascinating world of zero-sum games. You might be wondering, what exactly is a zero-sum game? Well, it's a type of mathematical game where one player's gains are equal to another player's losses. In other words, the total sum of scores remains constant throughout the game.
+
+Now, every zero-sum game has a unique, "determined" outcome that is considered "individually rational." This means it's an outcome that benefits each player as much as they possibly can, given their knowledge of the other players' strategies and their own.
+
+By convention, we assign the value of a zero-sum game to the security level of Player 1. In simpler terms, this is the worst-case scenario for Player 1, where Player 2 is playing optimally to cause maximum damage.
+
+Here's an example: Imagine you and your friend are playing a game of poker. You both know each other's strategies perfectly. In this case, finding the best possible outcome for both of you would be like solving a zero-sum game. The value of this game would be the minimum amount of money you could potentially lose in a worst-case scenario, given your friend's optimal play.
+
+Now, let's talk about Nash equilibriums in these games. All combinations of maximum strategies in zero-sum games are also Nash equilibriums! That means that if both players are playing their best possible moves, they're still stuck at this determined outcome. Furthermore, all these Nash equilibriums yield the same payoff for each player.
+
+Some might think this multiplicity of equilibriums could be a problem, but it's actually not an issue in zero-sum games. That's because the set of Nash equilibriums is convex—in other words, if you draw all possible equilibriums on a graph, they form a shape that doesn't have any sharp corners or kinks.
+
+And guess what? We can efficiently compute these Nash equilibriums in zero-sum games using methods like Ford-Fulkerson and other best-response dynamics! These techniques are guaranteed to converge, meaning they will always find the correct solution, provided both players stick to their optimal strategies.
+
+Lastly, did you know that the Minimax Theorem is equivalent to Linear Programming (LP) duality? This relationship plays a crucial role in the analysis of randomized algorithms and has far-reaching implications in game theory and beyond!

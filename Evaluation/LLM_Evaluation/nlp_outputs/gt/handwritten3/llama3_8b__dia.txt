@@ -1,0 +1,9 @@
+[S1] Good morning everyone, today we're going to explore the fascinating topic of comparing two sets of probabilistic outcomes, specifically looking at the likelihoods associated with events a, b, and c. Now, let's take a closer look at these two lists.
+
+We have L₁, where we see a probability distribution ranging from 0.3 to 0.7 for event a, while event b has a higher likelihood of occurring at 0.7, and event c has essentially no chance of happening at 0%. Now, let's compare this with L₂.
+
+In L₂, we notice that the probability distribution is slightly shifted towards event a, which now has an even higher likelihood of 0.6. Meanwhile, event b seems less likely to occur with a probability of 0%, and event c has a moderate chance of happening at 0.4. Now, let's ask ourselves: what do these numbers tell us?
+
+Well, if we compare L₁ and L₂, it becomes clear that the most likely outcome is L₂ > L₁. This makes sense when you consider the increased likelihood of event a in L₂ compared to L₁. Of course, there's also the possibility of L₁ being the more likely scenario, which would be our least desirable outcome.
+
+In conclusion, today we've seen how comparing probabilistic outcomes can help us better understand and predict the likelihoods associated with different events. By examining these numbers, we can gain valuable insights into the relative probabilities of a, b, and c occurring. Thank you for joining me on this exploration, and I hope you found it enlightening! (smiles)

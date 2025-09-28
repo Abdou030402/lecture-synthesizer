@@ -1,0 +1,18 @@
+Analog Electronics – I
+Minor‑1 Notes
+
+UNIT‑I
+BJT →
+Introduction & types of transistors
+Construction, BJT Characteristics in CB, CE & CC mode, operating point, AC/DC load line, leakage currents, saturation and cut-off mode of operations, Ebers Moll Model.
+
+Bias Stabilization → Need of stabilization, various biasing schemes, bias stability w.r.t. variation in I<sub>CO</sub>, V<sub>BE</sub>, β
+Stabilization factor, thermal stability
+
+Models → Low frequency models for transistors (h‑parameter, Hybrid π, etc.)
+
+UNIT‑II
+BJT Amplifiers →
+Analysis of low freq. (CB, CE, CC & CC with R<sub>E</sub>), comparison of diff. configurations.
+
+→ Assignment Topics: → Cascaded Amp., Darlington Pair, Cascode Amplifiers

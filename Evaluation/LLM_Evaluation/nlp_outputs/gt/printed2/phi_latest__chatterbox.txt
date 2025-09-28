@@ -1,0 +1,5 @@
+```
+Top-P sampling is a technique used by AI models to determine which tokens they will use when generating each word. It does this by selecting from the smallest set of tokens whose cumulative probability reaches a specified P value. For example, if P=0.35, the model might choose "mat" because its individual probability (0.35) is the lowest in the top-P list, and it will continue to select smaller probabilities until reaching P.
+
+Token choice can greatly impact the diversity of outputs from AI models. Higher values for P allow for more diverse responses, while lower values produce more focused and predictable ones.
+```

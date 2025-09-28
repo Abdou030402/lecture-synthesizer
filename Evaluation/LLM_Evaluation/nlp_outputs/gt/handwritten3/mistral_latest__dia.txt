@@ -1,0 +1,13 @@
+[S1]
+"Good day, students! Today we're going to discuss an interesting topic in probability theory - the comparison of outcomes. Let's consider two scenarios, L₁ and L₂, each representing a different set of probabilities for variables 'a', 'b', and 'c'.
+
+Scenario one, L₁, has a higher probability for variable 'b' but lower probabilities for both 'a' and 'c'. That means if we were to observe this scenario repeatedly, we would expect 'b' to appear more frequently than 'a' or 'c'. However, the chances of observing 'a' or 'c' are relatively low.
+
+Now, let's move on to scenario two, L₂. In this case, the probability for variable 'a' is missing, but we do know that the chance of observing 'b' is lower compared to L₁, while the probability for 'c' is higher than in L₁.
+
+(pauses)
+
+The most likely outcome here is that L₂ is more desirable because it has a higher probability for variable 'c', which we know from L₁ is less frequent in the first scenario. On the other hand, the least desirable outcome would be if L₁ were to have a higher probability than L₂, meaning that 'a' and 'c' are even rarer in L₂ compared to L₁."
+
+(smiles)
+"Does this make sense so far? Let's continue discussing as we delve deeper into these probabilities."

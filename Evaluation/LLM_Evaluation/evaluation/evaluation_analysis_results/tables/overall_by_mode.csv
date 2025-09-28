@@ -1,0 +1,3 @@
+mode,faithfulness,helpfulness,structure,tts,composite
+gt,0.7,0.71,0.69,0.72,0.7
+ocr,0.67,0.68,0.65,0.71,0.68

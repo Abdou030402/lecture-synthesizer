@@ -1,0 +1,11 @@
+[S1] Good day, students! Let's delve into a fascinating topic today - statistical inference. Specifically, we will focus on p-values and confidence intervals.
+
+(smiles) Firstly, I'd like to introduce you to the concept of a p-value or probability value. This is essentially the probability of finding the observed t-statistic when the null hypothesis would indeed be true. In simpler terms, it gives us an idea of how likely our findings are under the assumption that there's no significant difference between groups or variables we're comparing.
+
+(pauses) Now, let's move on to another crucial concept - confidence intervals. These are useful when we want to quantify the amount of uncertainty in our estimate of a population parameter. If a parameter (like βₕ₀) falls outside the confidence interval, we can interpret this as evidence against the null hypothesis.
+
+(emphasizes) Remember, these tools help us make informed decisions based on data, but they don't provide definitive proof or absolute certainty. Statistical inference is all about understanding probabilities and making reasonable assumptions based on our findings.
+
+(smiles) I hope this gives you a solid foundation to understand statistical inference better. We will delve deeper into these concepts in the coming lectures. If you have any questions, please feel free to ask!
+
+(pauses) Now let's continue with today's topic...

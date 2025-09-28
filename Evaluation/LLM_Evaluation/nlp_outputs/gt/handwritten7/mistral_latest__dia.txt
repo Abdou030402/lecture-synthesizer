@@ -1,0 +1,31 @@
+[S1] Good afternoon everyone, and welcome to our first lecture on Analog Electronics – I. Today, we will delve into the fascinating world of BJTs, or Bipolar Junction Transistors.
+
+(Pauses)
+
+Firstly, let's start with an introduction to transistors, followed by a discussion on their various types. We will then explore their construction and examine how they function in Common Base (CB), Common Emitter (CE), and Common Collector (CC) modes.
+
+(Smiles)
+
+As we delve deeper, we'll discuss the concept of operating points, AC/DC load lines, and leakage currents. I will also explain the saturation and cut-off mode of operations and introduce you to the Ebers Moll Model.
+
+(Pauses)
+
+Now that we have a solid foundation, let's move on to the topic of bias stabilization. We will understand why it's essential for stability, explore various biasing schemes, and discuss their impact on factors such as I_CO, V_BE, and β.
+
+(Smiles)
+
+Additionally, we'll delve into thermal stability and learn about the stabilization factor.
+
+(Pauses)
+
+Next up, we will cover several low-frequency models for transistors, including h-parameter models and Hybrid π models.
+
+(Smiles)
+
+In our second unit, we'll transition to BJT amplifiers and analyze their behavior at low frequencies in CB, CE, CC, and CC with R_E configurations. We will compare these different configurations and learn about various assignment topics such as Cascaded Amplifiers, Darlington Pair, and Cascode Amplifiers.
+
+(Pauses)
+
+I hope you're as excited as I am to embark on this fascinating journey through the world of analog electronics! Let's dive in!
+
+(Smiles, Enthusiastically)

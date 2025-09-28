@@ -1,0 +1,15 @@
+[S1] Good morning, everyone. Today, we're going to explore the Fourth Annual Test of OCR Accuracy, conducted by Stephen V. Rice, Frank R. Jenkins, and Thomas A. Nartker. (smiles)
+
+For four years now, the 18RI team has been conducting an annual test of optical character recognition, or OCR, systems. These systems take in a bitmapped image of any document page and attempt to identify machine-printed characters on that page. The goal of this test is to measure the accuracy of this process by comparing the text produced as output with the correct text. (pauses)
+
+The goals of this annual test are multifaceted: first, to provide a current, independent assessment of system performance; second, to measure advances in technology from year to year; third, to gain insight into the complex nature of OCR itself; and fourth, to identify problems at the state-of-the-art. (emphasizes)
+
+Let's take a look at how this test has evolved over time. In the first test, four years ago, six OCR systems processed binary images of 132 pages containing a total of 278,000 characters. These pages were randomly selected from a U.S. Department of Energy database of scientific and technical documents. (smiles)
+
+In the second year, new measures of performance were introduced in evaluating eight OCR systems using a larger DOE sample of 1460 pages and 817,000 characters. And in the third annual test, we featured a 200-page sample of articles from popular U.S. magazines scanned at three different resolutions. Six OCR systems were tested on pages containing nearly 1.5 million characters.
+
+Today, I'm excited to present the results of the fourth annual test – our largest and most comprehensive to date. The test samples contain more than three million characters from business letters, DOE documents, and articles from magazines and newspapers. Each page has been scanned four times to produce binary images at three different resolutions, plus one gray scale image. (pauses)
+
+We're also introducing a new aspect to the test: a collection of Spanish-language newspaper articles – our first non-English sample. And for the first time, we'll be reporting on the speed of these OCR systems.
+
+Thank you for your attention, and let's dive into the results of this comprehensive test. (smiles)

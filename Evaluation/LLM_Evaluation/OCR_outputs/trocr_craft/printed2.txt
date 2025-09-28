@@ -1,0 +1,13 @@
+Top-P Sampling
+Top-P sampling determines which tokens the model
+considers when generating each word by selecting from the
+smallest set of tokens whose cumulative probability reaches
+the specified P value . The parameter ranges from 0.0 to 1.0 ,
+where higher values allow for more diverse outputs while
+lower values produce more focused and predictable
+responses
+Takenchate 0 0 0 . National Probability .
+mat. 0 0-055
+couch ...
+roof - #
+fence #

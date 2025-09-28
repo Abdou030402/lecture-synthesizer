@@ -1,0 +1,11 @@
+Good afternoon, class! Today we're going to delve into the fascinating world of statistical hypothesis testing, focusing on two key concepts: p-values and confidence intervals.
+
+Now, let me explain what a p-value is. In essence, a p-value, or probability value, is a measure that tells us how likely it is that our observed results would occur if the null hypothesis, which is our initial assumption, were actually true. It's like flipping a coin and getting heads 20 times in a row; the p-value would tell us how probable that event is, given that the coin is fair.
+
+Next, we have confidence intervals. A confidence interval is a range of values within which we believe our true parameter to reside with a certain degree of confidence, typically 95%. Imagine you're trying to estimate the average height of all students in our university. We can't measure everyone, so instead, we take a sample and calculate the mean. The confidence interval gives us an idea of how close our sample mean is to the actual population mean.
+
+Now, here's where it gets interesting. If our estimated parameter, such as the average height, falls outside the confidence interval, we can interpret this as evidence against the null hypothesis. It's like saying, "Our measured average height is so far from what we expected, there's only a 5% chance that's just due to random sampling error."
+
+In summary, p-values and confidence intervals are essential tools in statistical analysis. They help us evaluate the evidence against our null hypothesis and make informed decisions based on data. So, the next time you hear about these terms, remember: a p-value tells us how likely our results would be under the null, while a confidence interval gives us a range within which we believe our true parameter resides.
+
+Now, let's discuss some examples and put these concepts into practice!

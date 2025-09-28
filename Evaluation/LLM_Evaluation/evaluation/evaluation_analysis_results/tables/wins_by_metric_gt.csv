@@ -1,0 +1,5 @@
+metric,llama3_8b_,mistral_latest_
+faithfulness,11,0.0
+helpfulness,7,4.0
+structure,6,5.0
+tts,10,1.0

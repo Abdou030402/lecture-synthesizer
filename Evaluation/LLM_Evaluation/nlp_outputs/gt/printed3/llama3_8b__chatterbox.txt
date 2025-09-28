@@ -1,0 +1,15 @@
+Here's your lecture, folks! Today we're going to explore some fascinating consequences and more, building on our understanding of zero-sum games.
+
+Now, a key characteristic of every zero-sum game is that it's determined. What does that mean? It means there's only one unique outcome that's individually rational for each player involved. In other words, no matter what strategy you choose, the outcome will be the same – and so will your payoff. By convention, we define the value of this zero-sum game as the security level of player one.
+
+Now, let's talk about Nash equilibria in these games. All combinations of maximin strategies in a zero-sum game are, by definition, Nash equilibria – and they all yield the same payoff. This is important because it means that the multiplicity of equilibria is no longer a real problem we need to worry about.
+
+Another key property of Nash equilibria in zero-sum games is that they form a convex set. In other words, if you have two strategies that are both equilibria, then any linear combination of those two strategies will also be an equilibrium – and it'll have the same payoff as well.
+
+Now, here's some great news: Nash equilibria in zero-sum games can actually be efficiently computed! This means we don't need to worry about searching through all possible combinations of strategies to find the optimal one.
+
+But that's not all. We also know that best-response dynamics – like FP, for instance – are guaranteed to converge in zero-sum games. In other words, no matter what strategy you choose initially, you'll eventually settle on a Nash equilibrium as the game unfolds.
+
+Finally, let's talk about the Minimax Theorem and its connection to LP duality. This theorem plays an important role in analyzing randomized algorithms, and it's equivalent to the idea of linear programming duality. I won't go into all the details now, but trust me – this is a powerful tool for understanding the behavior of complex systems.
+
+That's all for today, folks! We've covered some exciting ground on the consequences of zero-sum games. Remember: when you're playing games where one person's gain equals another person's loss, these principles can help you understand what strategies are most likely to succeed – and why.

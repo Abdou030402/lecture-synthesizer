@@ -1,0 +1,15 @@
+Good day, students! Today, we're going to delve into a fascinating topic called Top-P Sampling. This technique plays a significant role in how our AI models generate responses.
+
+Top-P sampling, simply put, is a method that determines which options the model considers when generating each word. It does this by selecting from the smallest set of tokens whose cumulative probability reaches a specified P value. The parameter ranges from 0.0 to 1.0.
+
+Now, let me explain what these numbers mean. A higher value allows for more diverse outputs, meaning our AI might come up with a wider variety of responses. On the other hand, lower values produce more focused and predictable responses. So, it's all about finding the right balance to achieve the desired outcome.
+
+Now, let me give you an example to help clarify this concept. Imagine you're playing a word guessing game. Instead of choosing from all the words in the English language, you're only allowed to pick from words whose combined probability or likelihood of being the correct answer equals a certain percentage (P).
+
+For instance, if we set P to 0.9, our AI would only consider the nine words with the highest probabilities. This makes it less likely to produce outlandish or unrelated responses but also means it might not explore as many possibilities.
+
+Now, let's discuss a couple of scenarios where Top-P sampling could be useful. For example, when we want our AI to give focused and precise answers—like in a classroom setting—we would use a lower P value. But if we want the AI to come up with creative or out-of-the-box ideas, like brainstorming potential solutions to complex problems, we would increase the P value.
+
+To wrap this up, remember that Top-P sampling is all about controlling the diversity of our AI's responses by managing the number of options it considers at each step. By adjusting the P value, we can steer the AI towards more focused or more diverse outputs, depending on what's needed for a given task.
+
+Now, let's dive into some examples and see Top-P sampling in action!

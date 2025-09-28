@@ -1,0 +1,4 @@
+mode,model,faithfulness,helpfulness,structure,tts,composite
+gt,llama3_8b_,0.95,0.86,0.77,0.98,0.89
+gt,mistral_latest_,0.77,0.85,0.8,0.94,0.84
+gt,phi_latest_,0.36,0.42,0.48,0.26,0.38

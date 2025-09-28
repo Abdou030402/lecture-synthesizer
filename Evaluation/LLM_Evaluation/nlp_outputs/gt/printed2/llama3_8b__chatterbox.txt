@@ -1,0 +1,9 @@
+Today, we're going to dive into Top-P sampling, a fascinating technique used in language models like ours. So, what is Top-P sampling all about? In a nutshell, it's a method that helps our model decide which tokens, or words, to consider when generating each new word. And the clever part is that it does this by selecting from the smallest set of tokens whose cumulative probability reaches a certain threshold, specified by the P value.
+
+Now, let's talk about what these P values mean. Imagine you're trying to predict the next word in a sentence. If the P value is high, say around 0.8 or 0.9, our model will consider a wide range of tokens before making its choice. This can lead to more diverse and creative outputs – think of it like giving your language model a lot of creative freedom! On the other hand, if the P value is lower, maybe around 0.2 or 0.3, our model will focus on the most likely candidates and produce more predictable responses.
+
+Let's take a look at some examples to illustrate this concept. (pauses to glance at notes) Ah yes, here we have some token probabilities for you: "mat" with an individual probability of 0.35, "couch" at 0.25, "roof" at 0.15, and "fence" at 0.10.
+
+Now, let's say our P value is set to 0.4. Our model will consider the top tokens that add up to a cumulative probability of 0.4 or higher. In this case, it would look at the probabilities for "mat", "couch", and possibly even "roof" before making its decision. This means we might get more unique word choices compared to if our P value were set lower.
+
+As you can see, Top-P sampling provides a clever way to balance creativity and predictability in language generation. By adjusting this parameter, we can fine-tune the output of our models to suit different applications and styles.

@@ -1,0 +1,9 @@
+Today, we're going to dive into two important statistical concepts that are crucial for making informed decisions in a wide range of fields. So, let's start with p-values. You might be wondering what makes them so special, but trust me, they're essential for understanding the results of your statistical tests.
+
+A p-value, or probability value, is the probability of finding the observed t-statistic when the null hypothesis would indeed be true. Think of it like this: imagine you're flipping a coin and you get heads 10 times in a row. The probability of getting heads on each individual flip is still 50%, but the probability of getting heads 10 times in a row by chance is extremely low. That's kind of what a p-value represents – it's the probability that the observed result would occur if there was no real effect, just random chance.
+
+Now, let's talk about confidence intervals. A confidence interval is used to give us an idea of where our true population parameter might be. Think of it like this: imagine you're trying to estimate your average grade on a test by taking multiple quizzes. Your quiz scores would form a range, say 80-95%. A confidence interval does the same thing – it gives us a range within which we can expect to find the true value.
+
+Here's where things get really interesting. If our estimated value, let's call it βₕ₀, falls outside this confidence interval, we can interpret this as evidence against the null hypothesis. In other words, if our estimate is far enough away from what we would expect by chance, we have some indication that there might be a real effect at play.
+
+So, to summarize: p-values help us determine the probability of getting the observed result by chance, while confidence intervals give us an idea of where our true population parameter might be. And when our estimated value falls outside this interval, it's like saying, "Hey, something fishy is going on here!"

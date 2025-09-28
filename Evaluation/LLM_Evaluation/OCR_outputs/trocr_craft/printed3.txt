@@ -1,0 +1,13 @@
+Consequences and More
+Every zero-sum game is " determined " , i.e .
+there is a unique " individually rational " outcome .
+By convention , the value of a zero-sum game is the security level of player 1 .
+All combinations of maximum strategies in zero-sum games
+are Nash equilibrium which furthermore yield the same payoff .
+The multiplicity of equilibrium is no longer a real problem .
+The set of equilibrium is convex .
+Nash equilibrium in zero-sum games can be efficiently computed .
+FP and other best-response dynamics are guaranteed to converge
+in zero-sum games .
+The Minimax Theorem is equivalent to LP duality and
+slavs an important role in the analysis of randomized algorithms

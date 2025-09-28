@@ -1,0 +1,15 @@
+<speak>
+Welcome, class! Today we'll delve into a fascinating concept known as Zero-Sum Games. Let me illustrate this with a simple example. Imagine a game where one player wins what another loses - it's a zero-sum game because the total amount of winnings remains constant regardless of the outcome.
+
+Now, every zero-sum game has a unique 'determined' outcome, meaning there's one result that is individually rational for each player. By convention, the value of this game is defined as the security level of Player 1.
+
+Here's an interesting observation: all combinations of maximum strategies in zero-sum games are what we call Nash Equilibriums. If you're not familiar with the term, a Nash Equilibrium is a situation where no player can benefit by unilaterally changing their strategy if they know the other players will not change theirs.
+
+In the context of our zero-sum game, this means that all combinations of maximum strategies are stable outcomes because neither player can gain an advantage by altering their approach. And remarkably, these different combinations yield the same payoff! This eliminates the issue of multiplicity of equilibriums being a problem.
+
+Furthermore, the set of Nash Equilibriums in zero-sum games is convex, meaning if you have two equilibriums and move halfway between them, you'll still land on another equilibrium.
+
+Now, finding these equilibriums can be efficiently computed in zero-sum games. Various methods like FP and best-response dynamics are guaranteed to converge in such games, ensuring we find the correct outcome.
+
+Lastly, it's worth noting that the Minimax Theorem plays an important role in the analysis of randomized algorithms. It's equivalent to Linear Programming duality, a powerful tool in optimization and mathematics.
+</speak>

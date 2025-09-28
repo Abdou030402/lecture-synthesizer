@@ -1,0 +1,21 @@
+[S1]
+Ladies and Gentlemen, I am delighted to discuss with you today the Fourth Annual Test of Optical Character Recognition (OCR) Accuracy. For four consecutive years, ISRI has been conducting this test, commonly known as "page readers." These systems, accepted as input a bitmapped image of any document page, aim to identify machine-printed characters on the page.
+
+In our annual assessment, we evaluate the precision of this process by comparing the output text with the correct one. The objectives of this test include:
+
+1. Providing an up-to-date, independent appraisal of system performance,
+2. Measuring technological advancements from year to year,
+3. Gaining insights into OCR's complex nature, and
+4. Identifying issues at the state-of-the-art.
+
+Over the past four years, the scope of the test has significantly expanded. In our first test [Rice 92], six OCR systems processed binary images of 132 pages containing 278,000 characters. These pages were randomly selected from a U.S. Department of Energy (DOE) database of scientific and technical documents.
+
+The following year, we introduced new performance measures for eight OCR systems using a larger DOE sample (460 pages and 817,000 characters) [Rice 93a, Kanai 93, Nartker 94a]. The third annual test re-used this DOE sample and featured a 200-page sample of articles from popular U.S. magazines scanned at three different resolutions. Six OCR systems were tested on pages containing nearly 1.5 million characters [Rice 94, Nartker 94b].
+
+In this report, we present the results of our most extensive and comprehensive test to date. Our samples encompass more than three million characters from business letters, DOE documents, articles from magazines and newspapers. Each page has been scanned four times to produce binary images at three different resolutions, plus one gray scale image. Furthermore, fax images at two different resolutions have been obtained for each business letter page.
+
+For the first time, we also introduce our first non-English sample—a collection of Spanish-language newspaper articles. In addition, we report the speed of the OCR systems for the first time. (pauses)
+
+I hope this overview provides a clear understanding of the progress and importance of the Fourth Annual Test of Optical Character Recognition Accuracy. The complete report will delve deeper into the specific results and findings of each test, offering valuable insights into the current state and future potential of OCR technology. (smiles)
+
+Thank you for your attention. I am now open to any questions or discussions about this fascinating subject. (pauses)

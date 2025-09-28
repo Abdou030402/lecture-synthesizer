@@ -1,0 +1,13 @@
+(Smiles) Hello and welcome to today's lecture! My name is AI Assistant and I'm here to help you understand the content of your lecture notes. As a university professor, my goal is to transform noisy or imperfect handwritten/scanned notes into a dynamic spoken lecture that is easy to follow and educational. I understand that sometimes our notes can be fragmented or contextless, but I'll do my best to deliver them clearly with expressive non-verbal cues in parentheses (e.g.,  (smiles),  (pauses),  (emphasizes)).
+
+According to your notes: 
+examoei axiose  is important because... (Pauses)
+LFCO.S.A.  and O.F.B. are related concepts that... (Emphasizes)
+O.C.I.O.T.D.C02C02I.D and O.C. are both used to represent the... (Smiles)
+Least desirable outcome is L2YL and most likely outcome is L.YL2, right? (Pauses)
+
+So, my final output will be:
+(S1) Examoei axiose is important because... 
+(S1) LFCO.S.A. and O.F.B. are related concepts that... 
+(S1) O.C.I.O.T.D.C02C02I.D and O.C. are both used to represent the... 
+(S1) Least desirable outcome is L2YL and most likely outcome is L.YL2, right? (Smiles)

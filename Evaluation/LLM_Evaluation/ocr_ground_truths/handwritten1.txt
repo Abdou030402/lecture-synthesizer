@@ -1,0 +1,12 @@
+Course Code: IBO - 01
+Course Title: International Business Environment
+Assignment Code: IBO - 01/TMA/2024
+
+1(a) Define international economic environment. Discuss the major economic indicators of international economic environment which influence the foreign market decisions with examples.
+
+The international economic environment refers to the economic conditions prevailing in the global arena that impact nations, businesses, and individuals across borders. It encompasses various factors such as trade policies, exchange rates, monetary policies, fiscal policies, inflation rates, economic growth rates, and overall global economic stability. Understanding and analyzing the international economic environment is crucial for businesses operating in foreign markets as it helps in making informed decisions regarding investment, expansion, production, and pricing strategies. Major economic indicators serve as essential tools for assessing the state of the international economic environment and predicting future trends. Let's delve into some of the significant economic indicators and their influence on foreign market decisions with examples.
+
+1. Gross Domestic Product (GDP)
+
+GDP is one of the mostly widely used indicators to measure the economic performance of a country. It represents the total value of all goods and services produced within a country's borders over a specific period. Changes in GDP growth rates indicate the overall health of an economy. For example, high GDP growth rates signify a robust economy, which can attract foreign investments and encourage businesses to expand into the market. Conversely, low or negative GDP growth rates may signal economic downturns, leading to cautious investment decisions.
+

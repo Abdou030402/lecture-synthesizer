@@ -1,0 +1,19 @@
+<speak>
+
+Today, we're going to explore a fundamental concept in statistics, and that's the value of probability. Now, you might be wondering what I mean by "probability of finding the absence." Well, let me explain. When we have multiple hypotheses, or potential explanations for a phenomenon, we want to determine the probability that none of those hypotheses are true. In other words, we're interested in the probability of finding no evidence to support any of these hypotheses.
+
+<break time="1s"/>
+
+Now, you might be thinking, "But how do we even calculate this?" That's where confidence intervals come in. A confidence interval is a range of values within which we expect a true population parameter to lie. In our case, if we construct a confidence interval for the value B, and it falls outside that range, we can interpret this as evidence against the null hypothesis.
+
+<emphasis level="moderate">The idea here is that if the data doesn't fit within the expected range, then it's likely that there's something more going on than just chance.</emphasis>
+
+<prosody rate="slow">Now, let's dive a bit deeper into what this means. Imagine you're flipping coins, and you want to know whether they're fair or not. You flip the coin 10 times, and let's say you get 7 heads. A naive interpretation might be that the coin is biased towards heads. But if we construct a confidence interval for the true probability of getting heads, and it includes the value of 0.5 – in other words, if the data suggests that the true probability is still close to 50-50 – then we can't reject the null hypothesis that the coin is fair.</prosody>
+
+<break time="2s"/>
+
+So, to summarize: when dealing with multiple hypotheses, it's crucial to consider the absence of evidence supporting any of those hypotheses. Confidence intervals provide a powerful tool for doing just that. By constructing these intervals and checking whether our data falls within them, we can gain valuable insights into the nature of our phenomenon.
+
+<prosody volume="soft">And remember, this is all about updating our beliefs based on new information. As statisticians, it's our job to carefully consider the evidence and adjust our understanding accordingly.</prosody>
+
+</speak>

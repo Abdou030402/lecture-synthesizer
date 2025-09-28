@@ -153,7 +153,7 @@ def main():
     else:
         logging.info(f"Lecture script saved to {lecture_text_path}")
 
-    final_ext = 'mp3' if tts_engine == 'elevenlabs' else 'wav'
+    final_ext = 'mp3' if tts_engine == 'elevenlabs_v2' else 'wav'
     final_audio_filename = f"{base_name}_{tts_engine}.{final_ext}"
     final_audio_path = os.path.join(final_output_dir, final_audio_filename)
     logging.info(f"Converting lecture script to speech using TTS engine: {tts_engine}")
@@ -170,7 +170,7 @@ def main():
             result = subprocess.run(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True, check=True)
             if result.stderr:
                 logging.info(f"Chatterbox TTS Subprocess Stderr: {result.stderr.strip()}")
-        elif tts_engine == 'elevenlabs':
+        elif tts_engine == 'elevenlabs_v2':
             if not os.path.exists(elevenlabs_env_python):
                 logging.error(f"ElevenLabs Python executable not found at '{elevenlabs_env_python}'. Please ensure .venv_elevenlabs is set up.")
                 sys.exit(1)

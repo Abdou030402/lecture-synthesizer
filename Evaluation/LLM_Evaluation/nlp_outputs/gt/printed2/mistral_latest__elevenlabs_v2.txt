@@ -1,0 +1,17 @@
+<speak>
+
+Good day, students! Today we're going to delve into the topic of Top-P Sampling, a technique used in AI models for generating responses. This method helps determine which potential choices, or 'tokens,' the model considers when creating each word.
+
+The key parameter here is P, which ranges from 0.0 to 1.0. A higher value allows for more diverse outputs, while a lower value results in more focused and predictable responses. Let's consider an example to make this clearer.
+
+Imagine you're playing a word guessing game with your AI companion. The AI has four possible choices: mat, couch, roof, and fence. The individual probabilities of each are mat at 0.35, couch at 0.25, roof at 0.15, and fence at 0.10.
+
+If we set the Top-P value to 0.7, the AI will only consider the top two most probable choices - in this case, mat and couch, as their cumulative probability (0.35 + 0.25 = 0.6) exceeds our chosen P value of 0.7. This results in a more focused response but with some degree of variation.
+
+On the other hand, if we lower the Top-P value to 0.4, the AI would consider all four possibilities, as their cumulative probability (0.35 + 0.25 + 0.15 + 0.10 = 0.8) is greater than our new P value of 0.4. This produces a more predictable response but with less diversity.
+
+<break time="1s"/>
+
+In summary, Top-P Sampling is an essential tool for controlling the diversity and predictability of AI models' responses based on a specified P value. By understanding this technique, you can interact more effectively with AI assistants!
+
+</speak>

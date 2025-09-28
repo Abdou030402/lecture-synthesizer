@@ -1,0 +1,13 @@
+<speak>
+   Welcome students, today we're going to delve into a fascinating topic called Top-P Sampling, a technique used in machine learning. Imagine you're rolling a dice, and instead of choosing the number that lands face up, you pick all numbers whose total points are equal to or greater than a specific value, P.
+   <break time="1s"/>
+   In the context of language models, Top-P sampling determines which tokens a model considers when generating each word. The smallest set of tokens whose cumulative probability reaches the specified P value is selected. The parameter ranges from 0.0 to 1.0. Higher values allow for more diverse outputs, while lower values produce more focused and predictable responses.
+   <break time="1s"/>
+   To illustrate, let's consider a simple example. Suppose you have four possible next words with probabilities: 0.2, 0.3, 0.4, and 0.1. If P is set to 0.6, the model would consider only the top two options (0.2 + 0.3 = 0.5 < 0.6) because their cumulative probability reaches or exceeds the specified P value.
+   <break time="1s"/>
+   Now, let's imagine a scenario where we have a chatbot and want to encourage it to be more creative in its responses. By increasing the Top-P value, we can allow the model to consider more diverse options, leading to potentially more imaginative outputs from our friendly assistant.
+   <break time="1s"/>
+   However, lowering the Top-P value will make the chatbot respond in a more focused and predictable manner, which might be desirable in certain contexts, such as when seeking accurate or reliable information.
+   <break time="1s"/>
+   To put it all together, Top-P sampling is a crucial technique for managing the tradeoff between diversity and focus in machine learning model outputs. It's an essential tool in our efforts to create models that generate responses tailored to specific application requirements.
+</speak>

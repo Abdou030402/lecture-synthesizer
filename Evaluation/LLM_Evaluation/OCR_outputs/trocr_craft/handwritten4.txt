@@ -1,0 +1,6 @@
+value on probability value , is the probability of finding
+the absence to statistic when the multi hypothesis would indeed
+be true .
+confidence interval is used so that if B. is outside the
+confidencefictional we can interpret this as evidence against
+the mull

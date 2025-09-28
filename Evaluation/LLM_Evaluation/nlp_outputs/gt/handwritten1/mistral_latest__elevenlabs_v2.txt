@@ -1,0 +1,12 @@
+<speak>
+<break time="1s"/>
+Welcome, students, to today's lecture on International Business Environment, specifically focusing on the international economic environment. This topic is crucial for understanding how various global factors impact businesses operating beyond their home markets.
+
+The international economic environment refers to a broad spectrum of economic conditions that affect nations, companies, and individuals worldwide. These factors include trade policies, exchange rates, monetary policies, fiscal policies, inflation rates, economic growth rates, and overall global economic stability. To make sound decisions in foreign markets, it's essential to understand and analyze this environment.
+
+Let me give you some examples of major economic indicators that influence these decisions. One such indicator is Gross Domestic Product, or GDP for short. Simply put, GDP measures a country's total value of all goods and services produced within its borders over a specific period. Changes in GDP growth rates indicate the overall health of an economy.
+
+For instance, consider a scenario where a country boasts high GDP growth rates. This suggests a robust economy that can entice foreign investments and encourage businesses to expand into the market. Conversely, if a country experiences low or negative GDP growth rates, it may signal an economic downturn, prompting cautious investment decisions.
+
+In essence, understanding these indicators helps us predict future trends and make well-informed decisions in the international business arena. Stay tuned as we delve deeper into other key economic indicators and their impacts on foreign market decisions.
+</speak>

@@ -1,0 +1,11 @@
+[S1]
+
+Now, let's explore the fascinating world of game theory. Specifically, we're going to delve into the consequences and more of zero-sum games. (smiles) You see, every zero-sum game is "determined" – there's a unique outcome that's individually rational for each player. And by convention, the value of such a game is actually the security level of player one. (emphasizes)
+
+Now, let's talk about Nash equilibria in these games. All combinations of maximin strategies happen to be Nash equilibria – and amazingly, they all yield the same payoff! (pauses) This means that the multiplicity of equilibria is no longer a concern.
+
+But there's more! The set of equilibria is actually convex. And what's even more exciting is that Nash equilibria in zero-sum games can be efficiently computed. (nods)
+
+Now, let's move on to some related concepts. First, we have best-response dynamics – like FP for instance. In these cases, the algorithm is guaranteed to converge in zero-sum games. (smiles)
+
+Finally, let's talk about the Minimax Theorem. This theorem is actually equivalent to LP duality and plays a crucial role in the analysis of randomized algorithms. (emphasizes) So there you have it – the consequences and more of zero-sum games!

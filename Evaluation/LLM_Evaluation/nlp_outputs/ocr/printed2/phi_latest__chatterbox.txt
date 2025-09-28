@@ -1,0 +1,5 @@
+"Welcome to the Top-P Sampling lecture on the topic of 'Mathematical Methods in Engineering'. Today, we will be discussing how this method can be used to analyze and solve complex engineering problems.
+First, let's start with a brief overview of what Top-P sampling is. It's an approach that helps us determine which data points or variables are most important by examining their probabilities. 
+In engineering, we often deal with large datasets with many different factors at play. By using top-p sampling, we can narrow down the variables to focus on and make more informed decisions.
+For example, let's say you're trying to design a new bridge. You'll need to consider things like the materials used, the location of the bridge, and the expected traffic volume. By using Top-P Sampling, you can select the most relevant factors based on their probability, ensuring that your design is as efficient and safe as possible.
+In conclusion, top-p sampling is a powerful tool for engineers to use when dealing with complex datasets. By focusing on the most important variables, we can make more informed decisions and create better solutions."

@@ -1,0 +1,22 @@
+1.2 ( Purpose of JavaScript
+What links hereRelated changesUpload file
+client side " scripting for web #
+This mean it allows developers
+manipulate the content and behaviour
+webpages directly within the US.
+iweb .
+With JavaScript ... we can dynamically
+update , web " pages , elements , validate
+What links here also have also
+mouse-movements .
+jand keyboard , limplut .
+Additionally , JavaScript can implement
+with # web-servers , through AAAX
+( Asynchronous - JavaScript . and #
+page # dedicated data , without " requiring
+Copyrighted by Cockwith Curriculum
+1 3 ( Setting up the development environment
+start , coding in JavaScript ,
+speed a development environment ,
+pup
+Here are the basic Steps

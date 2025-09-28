@@ -1,0 +1,15 @@
+Ladies and Gentlemen, welcome to today's session! Today we're going to delve into an interesting topic - the comparison of outcomes in different scenarios. Specifically, we will be discussing a concept called 'Probability Distributions,' focusing on our two friends here, 'a', 'b', and 'c'.
+
+Let me illustrate with a simple example. Imagine you're flipping a coin three times. Each time it lands, the possible outcomes are heads ('H') or tails ('T'). So, we have 8 different combinations - HHH, HHT, HTH, HTT, THH, THT, TTH, TTT. But for now, let's simplify and just consider three specific outcomes: Heads appearing once (HHT, HTH, THH), Zero times (TTT), or Two times (HHH).
+
+Now, our professor notes give us two scenarios - L₁ and L₂ - each associated with different probabilities for these outcomes. Scenario L₁ suggests that 'a' is the probability of Heads appearing once, 'b' is the probability of no Heads at all, and 'c' is the probability of two Heads.
+
+However, our notes indicate that most likely outcome in scenario L₁ is 'a', followed by 'b', and then 'c'. That means there's a higher chance of getting Heads once than the other scenarios. But as statisticians, we always aim for the best-case scenario, right? So, the least desirable outcome in this case would be if 'b' (no Heads at all) is more likely than 'a'.
+
+Moving on to Scenario L₂, it shows that 'a' still represents the probability of getting Heads once, but here, there's no chance for zero Heads ('b' is missing), and 'c' remains the probability of two Heads. Interestingly, our notes indicate that in this scenario, 'a' (Heads once) is most likely to occur, followed by 'c' (Two Heads), with no chance of getting no Heads at all.
+
+Now you might wonder, why is it that L₂ offers a more favorable outcome than L₁? Well, let me put it this way: Would you rather have a 70% chance of winning a game versus a 30% chance and a 0% chance of losing, or would you prefer a 30% chance of winning, a 60% chance of losing, and no chance at all? The answer is clear, isn't it? So, in probability theory, we prefer Scenario L₂ over L₁ because it offers better chances overall.
+
+Remember, each scenario represents a different set of probabilities for these outcomes, and understanding these can help us make more informed decisions. In our next class, we will dive deeper into the world of probability distributions to learn how to calculate these probabilities ourselves! So, stay tuned, and keep those questions coming!
+
+[Class begins]

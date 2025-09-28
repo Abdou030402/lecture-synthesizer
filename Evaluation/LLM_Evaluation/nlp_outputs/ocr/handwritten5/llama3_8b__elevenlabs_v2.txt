@@ -1,0 +1,21 @@
+<speak>
+
+Welcome, students! Today we're going to explore the world of JavaScript, a powerful programming language that allows developers to manipulate the content and behavior of web pages directly within the browser. You might be wondering what makes JavaScript so special, and I'm excited to dive into the details.
+
+<break time="1s"/>
+
+JavaScript is often referred to as "client-side scripting" because it runs on the client's web browser, rather than on the server. This means that developers can dynamically update web pages, elements, and even validate user input in real-time. Imagine being able to create interactive web experiences without having to refresh the page or send requests to the server.
+
+<emphasis level="moderate">With JavaScript, we can...</emphasis> respond to mouse movements, keyboard interactions, and more. It's a game-changer for creating engaging online experiences that feel almost like native applications.
+
+But how do you get started with JavaScript? The first step is setting up your development environment. Now, I know some of you might be thinking, "Pup? What's that?" Don't worry; we'll get to it in a minute.
+
+<prosody rate="slow">To set up our development environment, follow these basic steps...</prosody> We'll need to have the right tools and frameworks in place to write, run, and test our JavaScript code. I'll walk you through the process step by step, so don't worry if you're new to this.
+
+<emphasis level="strong">Now, before we dive into the nitty-gritty details...</emphasis> let's take a moment to appreciate how far we've come in terms of web development. Just a few years ago, creating interactive web experiences was much more complicated and required a lot more server-side processing. But with JavaScript, we can now create rich, dynamic content that's accessible on any device.
+
+<prosody pitch="+10%">And the best part?</prosody> We're just getting started! In our next lecture, we'll explore the world of asynchronous programming with JavaScript and learn how to harness its power to create even more sophisticated web applications.
+
+<speak>
+
+(Copyrighted by Cockwith Curriculum)

@@ -1,0 +1,17 @@
+<speak>
+
+Welcome, students! Today we're going to explore the fascinating world of game theory and its applications. Now, I know some of you might be thinking, "Game theory? Isn't that just about games?" Well, yes and no. Game theory is actually a powerful framework for understanding strategic decision-making in situations where multiple parties are involved.
+
+Let's start with zero-sum games. These are the classic examples of games like chess or poker, where one player's gain is exactly equal to another player's loss. In these games, every possible outcome can be ranked according to their desirability from the perspective of each player. And here's the key point: there's always a unique, individually rational outcome that will occur, given the choices made by the players.
+
+Now, you might wonder how we determine this unique outcome. Well, in zero-sum games, it's common to use the security level of player 1 as our measure of value. This means that we're essentially asking, "What's the best possible outcome for player 1?" And, surprisingly, all combinations of maximum strategies in these zero-sum games turn out to be Nash equilibrium points, which yield the same payoff.
+
+But here's the really cool part: because these games are zero-sum, the multiplicity of equilibria is no longer a problem. In other words, we don't have to worry about multiple possible outcomes; there's only one rational choice that will occur. And this is where convexity comes in – the set of equilibrium points is always convex.
+
+Now, let's talk about computation. Nash equilibrium in zero-sum games can be efficiently computed using various algorithms. In fact, even best-response dynamics like FP and other iterative methods are guaranteed to converge in these games. This means that we can rely on these methods to find the optimal solution.
+
+Finally, I want to mention the Minimax Theorem. This is a fundamental result that shows an important connection between Nash equilibrium and linear programming duality. In fact, this theorem plays a crucial role in the analysis of randomized algorithms – which are essential for many modern applications, from machine learning to finance.
+
+So there you have it: the power of game theory in understanding strategic decision-making. I hope today's lecture has given you a deeper appreciation for these fundamental concepts and their far-reaching implications. Thank you for your attention!
+
+</speak>

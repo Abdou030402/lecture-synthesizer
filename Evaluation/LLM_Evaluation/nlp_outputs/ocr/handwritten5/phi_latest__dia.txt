@@ -1,0 +1,1 @@
+Welcome to our lecture on the purpose of JavaScript. Today, I will guide you through the steps of setting up your development environment and provide useful tips for coding in JavaScript. Are you ready?
